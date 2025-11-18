@@ -1,0 +1,4565 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d0" for="edge" attr.name="weight" attr.type="long"/>
+<graph edgedefault="undirected"><node id="Chicha's"/>
+<node id="Qutb Shahi Tombs"/>
+<node id="Ram Ki Bandi"/>
+<node id="City Museum"/>
+<node id="Paya"/>
+<node id="Cafe Bahar"/>
+<node id="Nizam Museum"/>
+<node id="Toli Masjid"/>
+<node id="Osman Sagar"/>
+<node id="Paigah Tombs"/>
+<node id="Durgam Cheruvu"/>
+<node id="Birla Mandir"/>
+<node id="Shilparamam"/>
+<node id="Jalavihar Water Park"/>
+<node id="Snow World"/>
+<node id="Lumbini Park"/>
+<node id="Moazzam Jahi Market"/>
+<node id="Hyderabadi Biryani"/>
+<node id="Mahavir Harina Vanasthali"/>
+<node id="Mrugavani National Park"/>
+<node id="Mount Opera"/>
+<node id="Over The Moon"/>
+<node id="Hotel Shadab"/>
+<node id="Gil-e-Firdaus"/>
+<node id="Nihari"/>
+<node id="Purani Haveli"/>
+<node id="Lassi"/>
+<node id="Ocean Park"/>
+<node id="Lukhmi"/>
+<node id="Osmania Biscuit"/>
+<node id="Botanical Garden"/>
+<node id="Falaknuma Palace"/>
+<node id="Hussain Sagar Lake"/>
+<node id="Qubani ka Meetha"/>
+<node id="Double ka Meetha"/>
+<node id="Taramati Baradari"/>
+<node id="Sheermal"/>
+<node id="Salar Jung Museum"/>
+<node id="Mecca Masjid"/>
+<node id="Nehru Zoological Park"/>
+<node id="Almond House"/>
+<node id="Sanghi Temple"/>
+<node id="Mirchi ka Salan"/>
+<node id="Dalcha"/>
+<node id="Spanish Mosque"/>
+<node id="Khubani ka Meetha"/>
+<node id="Karachi Bakery"/>
+<node id="Dum Pukht"/>
+<node id="Himayat Sagar"/>
+<node id="Secret Lake"/>
+<node id="Irani Chai"/>
+<node id="Ramoji Film City"/>
+<node id="Lal Bahadur Shastri Stadium"/>
+<node id="Wonderla"/>
+<node id="Shadab"/>
+<node id="Sanjeevaiah Park"/>
+<node id="Golconda Fort"/>
+<node id="Charminar"/>
+<node id="Sarvi"/>
+<node id="Shah Ghouse"/>
+<node id="KBR National Park"/>
+<node id="NTR Gardens"/>
+<node id="Pista House"/>
+<node id="Lamakaan"/>
+<node id="Chowmahalla Palace"/>
+<node id="Khatti Dal"/>
+<node id="Shamirpet Lake"/>
+<node id="Ravindra Bharathi"/>
+<node id="Haleem"/>
+<node id="Moula Ali Dargah"/>
+<node id="Begum Bazaar"/>
+<node id="Laad Bazaar"/>
+<node id="Grand Hotel"/>
+<node id="Bidri"/>
+<edge source="Chicha's" target="Cafe Bahar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Chicha's" target="Hyderabadi Biryani">
+  <data key="d0">1</data>
+</edge>
+<edge source="Chicha's" target="Hotel Shadab">
+  <data key="d0">1</data>
+</edge>
+<edge source="Chicha's" target="Shadab">
+  <data key="d0">1</data>
+</edge>
+<edge source="Chicha's" target="Sarvi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Chicha's" target="Shah Ghouse">
+  <data key="d0">1</data>
+</edge>
+<edge source="Chicha's" target="Pista House">
+  <data key="d0">1</data>
+</edge>
+<edge source="Chicha's" target="Haleem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Chicha's" target="Grand Hotel">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="City Museum">
+  <data key="d0">2</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Nizam Museum">
+  <data key="d0">2</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Osman Sagar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Lumbini Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Moazzam Jahi Market">
+  <data key="d0">3</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Hyderabadi Biryani">
+  <data key="d0">3</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Mahavir Harina Vanasthali">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Mrugavani National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Nihari">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Purani Haveli">
+  <data key="d0">3</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Lassi">
+  <data key="d0">4</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Botanical Garden">
+  <data key="d0">2</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Falaknuma Palace">
+  <data key="d0">3</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Hussain Sagar Lake">
+  <data key="d0">2</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Qubani ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Double ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Salar Jung Museum">
+  <data key="d0">3</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Mecca Masjid">
+  <data key="d0">3</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Nehru Zoological Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Spanish Mosque">
+  <data key="d0">2</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Himayat Sagar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Ramoji Film City">
+  <data key="d0">3</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Lal Bahadur Shastri Stadium">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Sanjeevaiah Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Golconda Fort">
+  <data key="d0">6</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Charminar">
+  <data key="d0">5</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="NTR Gardens">
+  <data key="d0">2</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Lamakaan">
+  <data key="d0">2</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Chowmahalla Palace">
+  <data key="d0">3</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Haleem">
+  <data key="d0">3</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Begum Bazaar">
+  <data key="d0">3</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Laad Bazaar">
+  <data key="d0">4</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Bidri">
+  <data key="d0">2</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Toli Masjid">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Paigah Tombs">
+  <data key="d0">2</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Birla Mandir">
+  <data key="d0">2</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Gil-e-Firdaus">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Lukhmi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Osmania Biscuit">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Taramati Baradari">
+  <data key="d0">2</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Irani Chai">
+  <data key="d0">2</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Khatti Dal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Durgam Cheruvu">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Shilparamam">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Snow World">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Mount Opera">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Ocean Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Sanghi Temple">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Dalcha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Dum Pukht">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Secret Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Wonderla">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qutb Shahi Tombs" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Durgam Cheruvu">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Hyderabadi Biryani">
+  <data key="d0">2</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Purani Haveli">
+  <data key="d0">2</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Lassi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Osmania Biscuit">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Almond House">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Karachi Bakery">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Irani Chai">
+  <data key="d0">2</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Charminar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Sarvi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Lamakaan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Begum Bazaar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Toli Masjid">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Paigah Tombs">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Shilparamam">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Over The Moon">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Falaknuma Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Taramati Baradari">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Salar Jung Museum">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Mecca Masjid">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Mirchi ka Salan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Spanish Mosque">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Khubani ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Shadab">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Golconda Fort">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Shah Ghouse">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Pista House">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Chowmahalla Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Haleem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ram Ki Bandi" target="Bidri">
+  <data key="d0">1</data>
+</edge>
+<edge source="City Museum" target="Nizam Museum">
+  <data key="d0">2</data>
+</edge>
+<edge source="City Museum" target="Osman Sagar">
+  <data key="d0">1</data>
+</edge>
+<edge source="City Museum" target="Lumbini Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="City Museum" target="Moazzam Jahi Market">
+  <data key="d0">2</data>
+</edge>
+<edge source="City Museum" target="Hyderabadi Biryani">
+  <data key="d0">2</data>
+</edge>
+<edge source="City Museum" target="Mahavir Harina Vanasthali">
+  <data key="d0">1</data>
+</edge>
+<edge source="City Museum" target="Mrugavani National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="City Museum" target="Nihari">
+  <data key="d0">1</data>
+</edge>
+<edge source="City Museum" target="Purani Haveli">
+  <data key="d0">2</data>
+</edge>
+<edge source="City Museum" target="Lassi">
+  <data key="d0">2</data>
+</edge>
+<edge source="City Museum" target="Botanical Garden">
+  <data key="d0">1</data>
+</edge>
+<edge source="City Museum" target="Falaknuma Palace">
+  <data key="d0">2</data>
+</edge>
+<edge source="City Museum" target="Hussain Sagar Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="City Museum" target="Qubani ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="City Museum" target="Double ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="City Museum" target="Salar Jung Museum">
+  <data key="d0">2</data>
+</edge>
+<edge source="City Museum" target="Mecca Masjid">
+  <data key="d0">2</data>
+</edge>
+<edge source="City Museum" target="Nehru Zoological Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="City Museum" target="Spanish Mosque">
+  <data key="d0">2</data>
+</edge>
+<edge source="City Museum" target="Himayat Sagar">
+  <data key="d0">1</data>
+</edge>
+<edge source="City Museum" target="Ramoji Film City">
+  <data key="d0">2</data>
+</edge>
+<edge source="City Museum" target="Lal Bahadur Shastri Stadium">
+  <data key="d0">1</data>
+</edge>
+<edge source="City Museum" target="Sanjeevaiah Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="City Museum" target="Golconda Fort">
+  <data key="d0">2</data>
+</edge>
+<edge source="City Museum" target="Charminar">
+  <data key="d0">2</data>
+</edge>
+<edge source="City Museum" target="NTR Gardens">
+  <data key="d0">1</data>
+</edge>
+<edge source="City Museum" target="Lamakaan">
+  <data key="d0">2</data>
+</edge>
+<edge source="City Museum" target="Chowmahalla Palace">
+  <data key="d0">2</data>
+</edge>
+<edge source="City Museum" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="City Museum" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="City Museum" target="Haleem">
+  <data key="d0">2</data>
+</edge>
+<edge source="City Museum" target="Begum Bazaar">
+  <data key="d0">2</data>
+</edge>
+<edge source="City Museum" target="Laad Bazaar">
+  <data key="d0">2</data>
+</edge>
+<edge source="City Museum" target="Bidri">
+  <data key="d0">2</data>
+</edge>
+<edge source="City Museum" target="Toli Masjid">
+  <data key="d0">1</data>
+</edge>
+<edge source="City Museum" target="Paigah Tombs">
+  <data key="d0">1</data>
+</edge>
+<edge source="City Museum" target="Birla Mandir">
+  <data key="d0">1</data>
+</edge>
+<edge source="City Museum" target="Gil-e-Firdaus">
+  <data key="d0">1</data>
+</edge>
+<edge source="City Museum" target="Lukhmi">
+  <data key="d0">1</data>
+</edge>
+<edge source="City Museum" target="Osmania Biscuit">
+  <data key="d0">1</data>
+</edge>
+<edge source="City Museum" target="Taramati Baradari">
+  <data key="d0">1</data>
+</edge>
+<edge source="City Museum" target="Irani Chai">
+  <data key="d0">1</data>
+</edge>
+<edge source="City Museum" target="Khatti Dal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paya" target="Hyderabadi Biryani">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paya" target="Mirchi ka Salan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Cafe Bahar" target="Hyderabadi Biryani">
+  <data key="d0">1</data>
+</edge>
+<edge source="Cafe Bahar" target="Hotel Shadab">
+  <data key="d0">1</data>
+</edge>
+<edge source="Cafe Bahar" target="Shadab">
+  <data key="d0">1</data>
+</edge>
+<edge source="Cafe Bahar" target="Sarvi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Cafe Bahar" target="Shah Ghouse">
+  <data key="d0">1</data>
+</edge>
+<edge source="Cafe Bahar" target="Pista House">
+  <data key="d0">1</data>
+</edge>
+<edge source="Cafe Bahar" target="Haleem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Cafe Bahar" target="Grand Hotel">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nizam Museum" target="Osman Sagar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nizam Museum" target="Lumbini Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nizam Museum" target="Moazzam Jahi Market">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nizam Museum" target="Hyderabadi Biryani">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nizam Museum" target="Mahavir Harina Vanasthali">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nizam Museum" target="Mrugavani National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nizam Museum" target="Nihari">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nizam Museum" target="Purani Haveli">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nizam Museum" target="Lassi">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nizam Museum" target="Botanical Garden">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nizam Museum" target="Falaknuma Palace">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nizam Museum" target="Hussain Sagar Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nizam Museum" target="Qubani ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nizam Museum" target="Double ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nizam Museum" target="Salar Jung Museum">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nizam Museum" target="Mecca Masjid">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nizam Museum" target="Nehru Zoological Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nizam Museum" target="Spanish Mosque">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nizam Museum" target="Himayat Sagar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nizam Museum" target="Ramoji Film City">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nizam Museum" target="Lal Bahadur Shastri Stadium">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nizam Museum" target="Sanjeevaiah Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nizam Museum" target="Golconda Fort">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nizam Museum" target="Charminar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nizam Museum" target="NTR Gardens">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nizam Museum" target="Lamakaan">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nizam Museum" target="Chowmahalla Palace">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nizam Museum" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nizam Museum" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nizam Museum" target="Haleem">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nizam Museum" target="Begum Bazaar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nizam Museum" target="Laad Bazaar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nizam Museum" target="Bidri">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nizam Museum" target="Toli Masjid">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nizam Museum" target="Paigah Tombs">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nizam Museum" target="Birla Mandir">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nizam Museum" target="Gil-e-Firdaus">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nizam Museum" target="Lukhmi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nizam Museum" target="Osmania Biscuit">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nizam Museum" target="Taramati Baradari">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nizam Museum" target="Irani Chai">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nizam Museum" target="Khatti Dal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Toli Masjid" target="Paigah Tombs">
+  <data key="d0">2</data>
+</edge>
+<edge source="Toli Masjid" target="Birla Mandir">
+  <data key="d0">1</data>
+</edge>
+<edge source="Toli Masjid" target="Moazzam Jahi Market">
+  <data key="d0">1</data>
+</edge>
+<edge source="Toli Masjid" target="Hyderabadi Biryani">
+  <data key="d0">2</data>
+</edge>
+<edge source="Toli Masjid" target="Gil-e-Firdaus">
+  <data key="d0">1</data>
+</edge>
+<edge source="Toli Masjid" target="Purani Haveli">
+  <data key="d0">2</data>
+</edge>
+<edge source="Toli Masjid" target="Lassi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Toli Masjid" target="Lukhmi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Toli Masjid" target="Osmania Biscuit">
+  <data key="d0">1</data>
+</edge>
+<edge source="Toli Masjid" target="Falaknuma Palace">
+  <data key="d0">2</data>
+</edge>
+<edge source="Toli Masjid" target="Taramati Baradari">
+  <data key="d0">2</data>
+</edge>
+<edge source="Toli Masjid" target="Salar Jung Museum">
+  <data key="d0">2</data>
+</edge>
+<edge source="Toli Masjid" target="Mecca Masjid">
+  <data key="d0">2</data>
+</edge>
+<edge source="Toli Masjid" target="Spanish Mosque">
+  <data key="d0">2</data>
+</edge>
+<edge source="Toli Masjid" target="Irani Chai">
+  <data key="d0">2</data>
+</edge>
+<edge source="Toli Masjid" target="Ramoji Film City">
+  <data key="d0">1</data>
+</edge>
+<edge source="Toli Masjid" target="Golconda Fort">
+  <data key="d0">2</data>
+</edge>
+<edge source="Toli Masjid" target="Charminar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Toli Masjid" target="Lamakaan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Toli Masjid" target="Chowmahalla Palace">
+  <data key="d0">2</data>
+</edge>
+<edge source="Toli Masjid" target="Khatti Dal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Toli Masjid" target="Haleem">
+  <data key="d0">2</data>
+</edge>
+<edge source="Toli Masjid" target="Begum Bazaar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Toli Masjid" target="Laad Bazaar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Toli Masjid" target="Bidri">
+  <data key="d0">2</data>
+</edge>
+<edge source="Toli Masjid" target="Shilparamam">
+  <data key="d0">1</data>
+</edge>
+<edge source="Toli Masjid" target="Over The Moon">
+  <data key="d0">1</data>
+</edge>
+<edge source="Toli Masjid" target="Mirchi ka Salan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Toli Masjid" target="Khubani ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Toli Masjid" target="Shadab">
+  <data key="d0">1</data>
+</edge>
+<edge source="Toli Masjid" target="Shah Ghouse">
+  <data key="d0">1</data>
+</edge>
+<edge source="Toli Masjid" target="Pista House">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osman Sagar" target="Lumbini Park">
+  <data key="d0">3</data>
+</edge>
+<edge source="Osman Sagar" target="Moazzam Jahi Market">
+  <data key="d0">2</data>
+</edge>
+<edge source="Osman Sagar" target="Hyderabadi Biryani">
+  <data key="d0">2</data>
+</edge>
+<edge source="Osman Sagar" target="Mahavir Harina Vanasthali">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osman Sagar" target="Mrugavani National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osman Sagar" target="Nihari">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osman Sagar" target="Purani Haveli">
+  <data key="d0">2</data>
+</edge>
+<edge source="Osman Sagar" target="Lassi">
+  <data key="d0">2</data>
+</edge>
+<edge source="Osman Sagar" target="Botanical Garden">
+  <data key="d0">2</data>
+</edge>
+<edge source="Osman Sagar" target="Falaknuma Palace">
+  <data key="d0">2</data>
+</edge>
+<edge source="Osman Sagar" target="Hussain Sagar Lake">
+  <data key="d0">3</data>
+</edge>
+<edge source="Osman Sagar" target="Qubani ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osman Sagar" target="Double ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osman Sagar" target="Salar Jung Museum">
+  <data key="d0">2</data>
+</edge>
+<edge source="Osman Sagar" target="Mecca Masjid">
+  <data key="d0">2</data>
+</edge>
+<edge source="Osman Sagar" target="Nehru Zoological Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Osman Sagar" target="Spanish Mosque">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osman Sagar" target="Himayat Sagar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Osman Sagar" target="Ramoji Film City">
+  <data key="d0">2</data>
+</edge>
+<edge source="Osman Sagar" target="Lal Bahadur Shastri Stadium">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osman Sagar" target="Sanjeevaiah Park">
+  <data key="d0">3</data>
+</edge>
+<edge source="Osman Sagar" target="Golconda Fort">
+  <data key="d0">3</data>
+</edge>
+<edge source="Osman Sagar" target="Charminar">
+  <data key="d0">3</data>
+</edge>
+<edge source="Osman Sagar" target="NTR Gardens">
+  <data key="d0">3</data>
+</edge>
+<edge source="Osman Sagar" target="Lamakaan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osman Sagar" target="Chowmahalla Palace">
+  <data key="d0">2</data>
+</edge>
+<edge source="Osman Sagar" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osman Sagar" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osman Sagar" target="Haleem">
+  <data key="d0">2</data>
+</edge>
+<edge source="Osman Sagar" target="Begum Bazaar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Osman Sagar" target="Laad Bazaar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Osman Sagar" target="Bidri">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osman Sagar" target="Birla Mandir">
+  <data key="d0">2</data>
+</edge>
+<edge source="Osman Sagar" target="Jalavihar Water Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osman Sagar" target="Snow World">
+  <data key="d0">2</data>
+</edge>
+<edge source="Osman Sagar" target="Paigah Tombs">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osman Sagar" target="Durgam Cheruvu">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osman Sagar" target="Shilparamam">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osman Sagar" target="Mount Opera">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osman Sagar" target="Ocean Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osman Sagar" target="Taramati Baradari">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osman Sagar" target="Sanghi Temple">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osman Sagar" target="Dalcha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osman Sagar" target="Dum Pukht">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osman Sagar" target="Secret Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osman Sagar" target="Irani Chai">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osman Sagar" target="Wonderla">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osman Sagar" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osman Sagar" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paigah Tombs" target="Birla Mandir">
+  <data key="d0">2</data>
+</edge>
+<edge source="Paigah Tombs" target="Moazzam Jahi Market">
+  <data key="d0">2</data>
+</edge>
+<edge source="Paigah Tombs" target="Hyderabadi Biryani">
+  <data key="d0">3</data>
+</edge>
+<edge source="Paigah Tombs" target="Gil-e-Firdaus">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paigah Tombs" target="Purani Haveli">
+  <data key="d0">3</data>
+</edge>
+<edge source="Paigah Tombs" target="Lassi">
+  <data key="d0">2</data>
+</edge>
+<edge source="Paigah Tombs" target="Lukhmi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paigah Tombs" target="Osmania Biscuit">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paigah Tombs" target="Falaknuma Palace">
+  <data key="d0">3</data>
+</edge>
+<edge source="Paigah Tombs" target="Taramati Baradari">
+  <data key="d0">3</data>
+</edge>
+<edge source="Paigah Tombs" target="Salar Jung Museum">
+  <data key="d0">3</data>
+</edge>
+<edge source="Paigah Tombs" target="Mecca Masjid">
+  <data key="d0">3</data>
+</edge>
+<edge source="Paigah Tombs" target="Spanish Mosque">
+  <data key="d0">2</data>
+</edge>
+<edge source="Paigah Tombs" target="Irani Chai">
+  <data key="d0">3</data>
+</edge>
+<edge source="Paigah Tombs" target="Ramoji Film City">
+  <data key="d0">2</data>
+</edge>
+<edge source="Paigah Tombs" target="Golconda Fort">
+  <data key="d0">3</data>
+</edge>
+<edge source="Paigah Tombs" target="Charminar">
+  <data key="d0">3</data>
+</edge>
+<edge source="Paigah Tombs" target="Lamakaan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paigah Tombs" target="Chowmahalla Palace">
+  <data key="d0">3</data>
+</edge>
+<edge source="Paigah Tombs" target="Khatti Dal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paigah Tombs" target="Haleem">
+  <data key="d0">3</data>
+</edge>
+<edge source="Paigah Tombs" target="Begum Bazaar">
+  <data key="d0">3</data>
+</edge>
+<edge source="Paigah Tombs" target="Laad Bazaar">
+  <data key="d0">3</data>
+</edge>
+<edge source="Paigah Tombs" target="Bidri">
+  <data key="d0">2</data>
+</edge>
+<edge source="Paigah Tombs" target="Durgam Cheruvu">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paigah Tombs" target="Shilparamam">
+  <data key="d0">2</data>
+</edge>
+<edge source="Paigah Tombs" target="Snow World">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paigah Tombs" target="Lumbini Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paigah Tombs" target="Mount Opera">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paigah Tombs" target="Ocean Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paigah Tombs" target="Botanical Garden">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paigah Tombs" target="Hussain Sagar Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paigah Tombs" target="Nehru Zoological Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paigah Tombs" target="Sanghi Temple">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paigah Tombs" target="Dalcha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paigah Tombs" target="Dum Pukht">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paigah Tombs" target="Secret Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paigah Tombs" target="Wonderla">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paigah Tombs" target="Sanjeevaiah Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paigah Tombs" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paigah Tombs" target="NTR Gardens">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paigah Tombs" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paigah Tombs" target="Over The Moon">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paigah Tombs" target="Mirchi ka Salan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paigah Tombs" target="Khubani ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paigah Tombs" target="Shadab">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paigah Tombs" target="Shah Ghouse">
+  <data key="d0">1</data>
+</edge>
+<edge source="Paigah Tombs" target="Pista House">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Hyderabadi Biryani">
+  <data key="d0">2</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Purani Haveli">
+  <data key="d0">2</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Lassi">
+  <data key="d0">2</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Osmania Biscuit">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Almond House">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Karachi Bakery">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Irani Chai">
+  <data key="d0">2</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Charminar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Sarvi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Lamakaan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Begum Bazaar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Birla Mandir">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Shilparamam">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Snow World">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Lumbini Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Moazzam Jahi Market">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Mount Opera">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Ocean Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Botanical Garden">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Falaknuma Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Hussain Sagar Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Taramati Baradari">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Salar Jung Museum">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Mecca Masjid">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Nehru Zoological Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Sanghi Temple">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Dalcha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Dum Pukht">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Secret Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Ramoji Film City">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Wonderla">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Sanjeevaiah Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Golconda Fort">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="NTR Gardens">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Chowmahalla Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Haleem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Durgam Cheruvu" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Birla Mandir" target="Moazzam Jahi Market">
+  <data key="d0">2</data>
+</edge>
+<edge source="Birla Mandir" target="Hyderabadi Biryani">
+  <data key="d0">2</data>
+</edge>
+<edge source="Birla Mandir" target="Gil-e-Firdaus">
+  <data key="d0">1</data>
+</edge>
+<edge source="Birla Mandir" target="Purani Haveli">
+  <data key="d0">2</data>
+</edge>
+<edge source="Birla Mandir" target="Lassi">
+  <data key="d0">2</data>
+</edge>
+<edge source="Birla Mandir" target="Lukhmi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Birla Mandir" target="Osmania Biscuit">
+  <data key="d0">1</data>
+</edge>
+<edge source="Birla Mandir" target="Falaknuma Palace">
+  <data key="d0">2</data>
+</edge>
+<edge source="Birla Mandir" target="Taramati Baradari">
+  <data key="d0">2</data>
+</edge>
+<edge source="Birla Mandir" target="Salar Jung Museum">
+  <data key="d0">2</data>
+</edge>
+<edge source="Birla Mandir" target="Mecca Masjid">
+  <data key="d0">2</data>
+</edge>
+<edge source="Birla Mandir" target="Spanish Mosque">
+  <data key="d0">1</data>
+</edge>
+<edge source="Birla Mandir" target="Irani Chai">
+  <data key="d0">2</data>
+</edge>
+<edge source="Birla Mandir" target="Ramoji Film City">
+  <data key="d0">2</data>
+</edge>
+<edge source="Birla Mandir" target="Golconda Fort">
+  <data key="d0">3</data>
+</edge>
+<edge source="Birla Mandir" target="Charminar">
+  <data key="d0">3</data>
+</edge>
+<edge source="Birla Mandir" target="Lamakaan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Birla Mandir" target="Chowmahalla Palace">
+  <data key="d0">2</data>
+</edge>
+<edge source="Birla Mandir" target="Khatti Dal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Birla Mandir" target="Haleem">
+  <data key="d0">2</data>
+</edge>
+<edge source="Birla Mandir" target="Begum Bazaar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Birla Mandir" target="Laad Bazaar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Birla Mandir" target="Bidri">
+  <data key="d0">1</data>
+</edge>
+<edge source="Birla Mandir" target="Jalavihar Water Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Birla Mandir" target="Snow World">
+  <data key="d0">2</data>
+</edge>
+<edge source="Birla Mandir" target="Lumbini Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Birla Mandir" target="Hussain Sagar Lake">
+  <data key="d0">2</data>
+</edge>
+<edge source="Birla Mandir" target="Himayat Sagar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Birla Mandir" target="Sanjeevaiah Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Birla Mandir" target="NTR Gardens">
+  <data key="d0">2</data>
+</edge>
+<edge source="Birla Mandir" target="Shilparamam">
+  <data key="d0">1</data>
+</edge>
+<edge source="Birla Mandir" target="Mount Opera">
+  <data key="d0">1</data>
+</edge>
+<edge source="Birla Mandir" target="Ocean Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Birla Mandir" target="Botanical Garden">
+  <data key="d0">1</data>
+</edge>
+<edge source="Birla Mandir" target="Nehru Zoological Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Birla Mandir" target="Sanghi Temple">
+  <data key="d0">1</data>
+</edge>
+<edge source="Birla Mandir" target="Dalcha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Birla Mandir" target="Dum Pukht">
+  <data key="d0">1</data>
+</edge>
+<edge source="Birla Mandir" target="Secret Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Birla Mandir" target="Wonderla">
+  <data key="d0">1</data>
+</edge>
+<edge source="Birla Mandir" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Birla Mandir" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shilparamam" target="Snow World">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shilparamam" target="Lumbini Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shilparamam" target="Moazzam Jahi Market">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shilparamam" target="Hyderabadi Biryani">
+  <data key="d0">2</data>
+</edge>
+<edge source="Shilparamam" target="Mount Opera">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shilparamam" target="Purani Haveli">
+  <data key="d0">2</data>
+</edge>
+<edge source="Shilparamam" target="Lassi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shilparamam" target="Ocean Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shilparamam" target="Botanical Garden">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shilparamam" target="Falaknuma Palace">
+  <data key="d0">2</data>
+</edge>
+<edge source="Shilparamam" target="Hussain Sagar Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shilparamam" target="Taramati Baradari">
+  <data key="d0">2</data>
+</edge>
+<edge source="Shilparamam" target="Salar Jung Museum">
+  <data key="d0">2</data>
+</edge>
+<edge source="Shilparamam" target="Mecca Masjid">
+  <data key="d0">2</data>
+</edge>
+<edge source="Shilparamam" target="Nehru Zoological Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shilparamam" target="Sanghi Temple">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shilparamam" target="Dalcha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shilparamam" target="Dum Pukht">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shilparamam" target="Secret Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shilparamam" target="Irani Chai">
+  <data key="d0">2</data>
+</edge>
+<edge source="Shilparamam" target="Ramoji Film City">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shilparamam" target="Wonderla">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shilparamam" target="Sanjeevaiah Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shilparamam" target="Golconda Fort">
+  <data key="d0">2</data>
+</edge>
+<edge source="Shilparamam" target="Charminar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Shilparamam" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shilparamam" target="NTR Gardens">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shilparamam" target="Chowmahalla Palace">
+  <data key="d0">2</data>
+</edge>
+<edge source="Shilparamam" target="Haleem">
+  <data key="d0">2</data>
+</edge>
+<edge source="Shilparamam" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shilparamam" target="Begum Bazaar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Shilparamam" target="Laad Bazaar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Shilparamam" target="Over The Moon">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shilparamam" target="Mirchi ka Salan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shilparamam" target="Spanish Mosque">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shilparamam" target="Khubani ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shilparamam" target="Shadab">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shilparamam" target="Shah Ghouse">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shilparamam" target="Pista House">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shilparamam" target="Bidri">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jalavihar Water Park" target="Snow World">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jalavihar Water Park" target="Lumbini Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jalavihar Water Park" target="Hussain Sagar Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jalavihar Water Park" target="Himayat Sagar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jalavihar Water Park" target="Sanjeevaiah Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jalavihar Water Park" target="Golconda Fort">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jalavihar Water Park" target="Charminar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Jalavihar Water Park" target="NTR Gardens">
+  <data key="d0">1</data>
+</edge>
+<edge source="Snow World" target="Lumbini Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Snow World" target="Hussain Sagar Lake">
+  <data key="d0">2</data>
+</edge>
+<edge source="Snow World" target="Himayat Sagar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Snow World" target="Sanjeevaiah Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Snow World" target="Golconda Fort">
+  <data key="d0">2</data>
+</edge>
+<edge source="Snow World" target="Charminar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Snow World" target="NTR Gardens">
+  <data key="d0">2</data>
+</edge>
+<edge source="Snow World" target="Moazzam Jahi Market">
+  <data key="d0">1</data>
+</edge>
+<edge source="Snow World" target="Hyderabadi Biryani">
+  <data key="d0">1</data>
+</edge>
+<edge source="Snow World" target="Mount Opera">
+  <data key="d0">1</data>
+</edge>
+<edge source="Snow World" target="Purani Haveli">
+  <data key="d0">1</data>
+</edge>
+<edge source="Snow World" target="Lassi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Snow World" target="Ocean Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Snow World" target="Botanical Garden">
+  <data key="d0">1</data>
+</edge>
+<edge source="Snow World" target="Falaknuma Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Snow World" target="Taramati Baradari">
+  <data key="d0">1</data>
+</edge>
+<edge source="Snow World" target="Salar Jung Museum">
+  <data key="d0">1</data>
+</edge>
+<edge source="Snow World" target="Mecca Masjid">
+  <data key="d0">1</data>
+</edge>
+<edge source="Snow World" target="Nehru Zoological Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Snow World" target="Sanghi Temple">
+  <data key="d0">1</data>
+</edge>
+<edge source="Snow World" target="Dalcha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Snow World" target="Dum Pukht">
+  <data key="d0">1</data>
+</edge>
+<edge source="Snow World" target="Secret Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Snow World" target="Irani Chai">
+  <data key="d0">1</data>
+</edge>
+<edge source="Snow World" target="Ramoji Film City">
+  <data key="d0">1</data>
+</edge>
+<edge source="Snow World" target="Wonderla">
+  <data key="d0">1</data>
+</edge>
+<edge source="Snow World" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Snow World" target="Chowmahalla Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Snow World" target="Haleem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Snow World" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Snow World" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Snow World" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lumbini Park" target="Moazzam Jahi Market">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lumbini Park" target="Hyderabadi Biryani">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lumbini Park" target="Mahavir Harina Vanasthali">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lumbini Park" target="Mrugavani National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lumbini Park" target="Nihari">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lumbini Park" target="Purani Haveli">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lumbini Park" target="Lassi">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lumbini Park" target="Botanical Garden">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lumbini Park" target="Falaknuma Palace">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lumbini Park" target="Hussain Sagar Lake">
+  <data key="d0">3</data>
+</edge>
+<edge source="Lumbini Park" target="Qubani ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lumbini Park" target="Double ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lumbini Park" target="Salar Jung Museum">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lumbini Park" target="Mecca Masjid">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lumbini Park" target="Nehru Zoological Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lumbini Park" target="Spanish Mosque">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lumbini Park" target="Himayat Sagar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lumbini Park" target="Ramoji Film City">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lumbini Park" target="Lal Bahadur Shastri Stadium">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lumbini Park" target="Sanjeevaiah Park">
+  <data key="d0">3</data>
+</edge>
+<edge source="Lumbini Park" target="Golconda Fort">
+  <data key="d0">3</data>
+</edge>
+<edge source="Lumbini Park" target="Charminar">
+  <data key="d0">3</data>
+</edge>
+<edge source="Lumbini Park" target="NTR Gardens">
+  <data key="d0">3</data>
+</edge>
+<edge source="Lumbini Park" target="Lamakaan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lumbini Park" target="Chowmahalla Palace">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lumbini Park" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lumbini Park" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lumbini Park" target="Haleem">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lumbini Park" target="Begum Bazaar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lumbini Park" target="Laad Bazaar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lumbini Park" target="Bidri">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lumbini Park" target="Mount Opera">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lumbini Park" target="Ocean Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lumbini Park" target="Taramati Baradari">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lumbini Park" target="Sanghi Temple">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lumbini Park" target="Dalcha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lumbini Park" target="Dum Pukht">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lumbini Park" target="Secret Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lumbini Park" target="Irani Chai">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lumbini Park" target="Wonderla">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lumbini Park" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lumbini Park" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Hyderabadi Biryani">
+  <data key="d0">3</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Mahavir Harina Vanasthali">
+  <data key="d0">1</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Mrugavani National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Nihari">
+  <data key="d0">1</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Purani Haveli">
+  <data key="d0">3</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Lassi">
+  <data key="d0">3</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Botanical Garden">
+  <data key="d0">2</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Falaknuma Palace">
+  <data key="d0">3</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Hussain Sagar Lake">
+  <data key="d0">2</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Qubani ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Double ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Salar Jung Museum">
+  <data key="d0">3</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Mecca Masjid">
+  <data key="d0">3</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Nehru Zoological Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Spanish Mosque">
+  <data key="d0">2</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Himayat Sagar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Ramoji Film City">
+  <data key="d0">3</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Lal Bahadur Shastri Stadium">
+  <data key="d0">1</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Sanjeevaiah Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Golconda Fort">
+  <data key="d0">3</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Charminar">
+  <data key="d0">3</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="NTR Gardens">
+  <data key="d0">2</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Lamakaan">
+  <data key="d0">2</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Chowmahalla Palace">
+  <data key="d0">3</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Haleem">
+  <data key="d0">3</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Begum Bazaar">
+  <data key="d0">3</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Laad Bazaar">
+  <data key="d0">3</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Bidri">
+  <data key="d0">2</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Gil-e-Firdaus">
+  <data key="d0">1</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Lukhmi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Osmania Biscuit">
+  <data key="d0">1</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Taramati Baradari">
+  <data key="d0">2</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Irani Chai">
+  <data key="d0">2</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Khatti Dal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Mount Opera">
+  <data key="d0">1</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Ocean Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Sanghi Temple">
+  <data key="d0">1</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Dalcha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Dum Pukht">
+  <data key="d0">1</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Secret Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Wonderla">
+  <data key="d0">1</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Moazzam Jahi Market" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Falaknuma Palace">
+  <data key="d0">5</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Charminar">
+  <data key="d0">6</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Purani Haveli">
+  <data key="d0">5</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Lassi">
+  <data key="d0">4</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Osmania Biscuit">
+  <data key="d0">2</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Almond House">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Karachi Bakery">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Irani Chai">
+  <data key="d0">4</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Sarvi">
+  <data key="d0">2</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Lamakaan">
+  <data key="d0">3</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Begum Bazaar">
+  <data key="d0">5</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Mahavir Harina Vanasthali">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Mrugavani National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Nihari">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Botanical Garden">
+  <data key="d0">2</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Hussain Sagar Lake">
+  <data key="d0">2</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Qubani ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Double ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Salar Jung Museum">
+  <data key="d0">4</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Mecca Masjid">
+  <data key="d0">4</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Nehru Zoological Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Spanish Mosque">
+  <data key="d0">3</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Himayat Sagar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Ramoji Film City">
+  <data key="d0">3</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Lal Bahadur Shastri Stadium">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Sanjeevaiah Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Golconda Fort">
+  <data key="d0">4</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="NTR Gardens">
+  <data key="d0">2</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Chowmahalla Palace">
+  <data key="d0">4</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Haleem">
+  <data key="d0">6</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Laad Bazaar">
+  <data key="d0">4</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Bidri">
+  <data key="d0">3</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Lukhmi">
+  <data key="d0">2</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Sheermal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Dalcha">
+  <data key="d0">2</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Khatti Dal">
+  <data key="d0">2</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Gil-e-Firdaus">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Taramati Baradari">
+  <data key="d0">3</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Mirchi ka Salan">
+  <data key="d0">2</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Hotel Shadab">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Shadab">
+  <data key="d0">2</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Shah Ghouse">
+  <data key="d0">2</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Pista House">
+  <data key="d0">2</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Grand Hotel">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Mount Opera">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Ocean Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Sanghi Temple">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Dum Pukht">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Secret Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Wonderla">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Over The Moon">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hyderabadi Biryani" target="Khubani ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mahavir Harina Vanasthali" target="Mrugavani National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mahavir Harina Vanasthali" target="Nihari">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mahavir Harina Vanasthali" target="Purani Haveli">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mahavir Harina Vanasthali" target="Lassi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mahavir Harina Vanasthali" target="Botanical Garden">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mahavir Harina Vanasthali" target="Falaknuma Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mahavir Harina Vanasthali" target="Hussain Sagar Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mahavir Harina Vanasthali" target="Qubani ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mahavir Harina Vanasthali" target="Double ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mahavir Harina Vanasthali" target="Salar Jung Museum">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mahavir Harina Vanasthali" target="Mecca Masjid">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mahavir Harina Vanasthali" target="Nehru Zoological Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mahavir Harina Vanasthali" target="Spanish Mosque">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mahavir Harina Vanasthali" target="Himayat Sagar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mahavir Harina Vanasthali" target="Ramoji Film City">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mahavir Harina Vanasthali" target="Lal Bahadur Shastri Stadium">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mahavir Harina Vanasthali" target="Sanjeevaiah Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mahavir Harina Vanasthali" target="Golconda Fort">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mahavir Harina Vanasthali" target="Charminar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mahavir Harina Vanasthali" target="NTR Gardens">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mahavir Harina Vanasthali" target="Lamakaan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mahavir Harina Vanasthali" target="Chowmahalla Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mahavir Harina Vanasthali" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mahavir Harina Vanasthali" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mahavir Harina Vanasthali" target="Haleem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mahavir Harina Vanasthali" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mahavir Harina Vanasthali" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mahavir Harina Vanasthali" target="Bidri">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mrugavani National Park" target="Nihari">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mrugavani National Park" target="Purani Haveli">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mrugavani National Park" target="Lassi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mrugavani National Park" target="Botanical Garden">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mrugavani National Park" target="Falaknuma Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mrugavani National Park" target="Hussain Sagar Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mrugavani National Park" target="Qubani ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mrugavani National Park" target="Double ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mrugavani National Park" target="Salar Jung Museum">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mrugavani National Park" target="Mecca Masjid">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mrugavani National Park" target="Nehru Zoological Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mrugavani National Park" target="Spanish Mosque">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mrugavani National Park" target="Himayat Sagar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mrugavani National Park" target="Ramoji Film City">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mrugavani National Park" target="Lal Bahadur Shastri Stadium">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mrugavani National Park" target="Sanjeevaiah Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mrugavani National Park" target="Golconda Fort">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mrugavani National Park" target="Charminar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mrugavani National Park" target="NTR Gardens">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mrugavani National Park" target="Lamakaan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mrugavani National Park" target="Chowmahalla Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mrugavani National Park" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mrugavani National Park" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mrugavani National Park" target="Haleem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mrugavani National Park" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mrugavani National Park" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mrugavani National Park" target="Bidri">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mount Opera" target="Purani Haveli">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mount Opera" target="Lassi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mount Opera" target="Ocean Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mount Opera" target="Botanical Garden">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mount Opera" target="Falaknuma Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mount Opera" target="Hussain Sagar Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mount Opera" target="Taramati Baradari">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mount Opera" target="Salar Jung Museum">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mount Opera" target="Mecca Masjid">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mount Opera" target="Nehru Zoological Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mount Opera" target="Sanghi Temple">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mount Opera" target="Dalcha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mount Opera" target="Dum Pukht">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mount Opera" target="Secret Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mount Opera" target="Irani Chai">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mount Opera" target="Ramoji Film City">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mount Opera" target="Wonderla">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mount Opera" target="Sanjeevaiah Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mount Opera" target="Golconda Fort">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mount Opera" target="Charminar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mount Opera" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mount Opera" target="NTR Gardens">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mount Opera" target="Chowmahalla Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mount Opera" target="Haleem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mount Opera" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mount Opera" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mount Opera" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Over The Moon" target="Purani Haveli">
+  <data key="d0">1</data>
+</edge>
+<edge source="Over The Moon" target="Falaknuma Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Over The Moon" target="Taramati Baradari">
+  <data key="d0">1</data>
+</edge>
+<edge source="Over The Moon" target="Salar Jung Museum">
+  <data key="d0">1</data>
+</edge>
+<edge source="Over The Moon" target="Mecca Masjid">
+  <data key="d0">1</data>
+</edge>
+<edge source="Over The Moon" target="Mirchi ka Salan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Over The Moon" target="Spanish Mosque">
+  <data key="d0">1</data>
+</edge>
+<edge source="Over The Moon" target="Khubani ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Over The Moon" target="Irani Chai">
+  <data key="d0">1</data>
+</edge>
+<edge source="Over The Moon" target="Shadab">
+  <data key="d0">1</data>
+</edge>
+<edge source="Over The Moon" target="Golconda Fort">
+  <data key="d0">1</data>
+</edge>
+<edge source="Over The Moon" target="Charminar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Over The Moon" target="Shah Ghouse">
+  <data key="d0">1</data>
+</edge>
+<edge source="Over The Moon" target="Pista House">
+  <data key="d0">1</data>
+</edge>
+<edge source="Over The Moon" target="Chowmahalla Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Over The Moon" target="Haleem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Over The Moon" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Over The Moon" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Over The Moon" target="Bidri">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hotel Shadab" target="Shadab">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hotel Shadab" target="Sarvi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hotel Shadab" target="Shah Ghouse">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hotel Shadab" target="Pista House">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hotel Shadab" target="Haleem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hotel Shadab" target="Grand Hotel">
+  <data key="d0">1</data>
+</edge>
+<edge source="Gil-e-Firdaus" target="Purani Haveli">
+  <data key="d0">1</data>
+</edge>
+<edge source="Gil-e-Firdaus" target="Lassi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Gil-e-Firdaus" target="Lukhmi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Gil-e-Firdaus" target="Osmania Biscuit">
+  <data key="d0">1</data>
+</edge>
+<edge source="Gil-e-Firdaus" target="Falaknuma Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Gil-e-Firdaus" target="Taramati Baradari">
+  <data key="d0">1</data>
+</edge>
+<edge source="Gil-e-Firdaus" target="Salar Jung Museum">
+  <data key="d0">1</data>
+</edge>
+<edge source="Gil-e-Firdaus" target="Mecca Masjid">
+  <data key="d0">1</data>
+</edge>
+<edge source="Gil-e-Firdaus" target="Spanish Mosque">
+  <data key="d0">1</data>
+</edge>
+<edge source="Gil-e-Firdaus" target="Irani Chai">
+  <data key="d0">1</data>
+</edge>
+<edge source="Gil-e-Firdaus" target="Ramoji Film City">
+  <data key="d0">1</data>
+</edge>
+<edge source="Gil-e-Firdaus" target="Golconda Fort">
+  <data key="d0">1</data>
+</edge>
+<edge source="Gil-e-Firdaus" target="Charminar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Gil-e-Firdaus" target="Lamakaan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Gil-e-Firdaus" target="Chowmahalla Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Gil-e-Firdaus" target="Khatti Dal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Gil-e-Firdaus" target="Haleem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Gil-e-Firdaus" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Gil-e-Firdaus" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Gil-e-Firdaus" target="Bidri">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nihari" target="Purani Haveli">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nihari" target="Lassi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nihari" target="Botanical Garden">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nihari" target="Falaknuma Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nihari" target="Hussain Sagar Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nihari" target="Qubani ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nihari" target="Double ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nihari" target="Salar Jung Museum">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nihari" target="Mecca Masjid">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nihari" target="Nehru Zoological Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nihari" target="Spanish Mosque">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nihari" target="Himayat Sagar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nihari" target="Ramoji Film City">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nihari" target="Lal Bahadur Shastri Stadium">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nihari" target="Sanjeevaiah Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nihari" target="Golconda Fort">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nihari" target="Charminar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nihari" target="NTR Gardens">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nihari" target="Lamakaan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nihari" target="Chowmahalla Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nihari" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nihari" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nihari" target="Haleem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nihari" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nihari" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nihari" target="Bidri">
+  <data key="d0">1</data>
+</edge>
+<edge source="Purani Haveli" target="Lassi">
+  <data key="d0">4</data>
+</edge>
+<edge source="Purani Haveli" target="Osmania Biscuit">
+  <data key="d0">2</data>
+</edge>
+<edge source="Purani Haveli" target="Almond House">
+  <data key="d0">1</data>
+</edge>
+<edge source="Purani Haveli" target="Karachi Bakery">
+  <data key="d0">1</data>
+</edge>
+<edge source="Purani Haveli" target="Irani Chai">
+  <data key="d0">4</data>
+</edge>
+<edge source="Purani Haveli" target="Charminar">
+  <data key="d0">5</data>
+</edge>
+<edge source="Purani Haveli" target="Sarvi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Purani Haveli" target="Lamakaan">
+  <data key="d0">3</data>
+</edge>
+<edge source="Purani Haveli" target="Begum Bazaar">
+  <data key="d0">5</data>
+</edge>
+<edge source="Purani Haveli" target="Botanical Garden">
+  <data key="d0">2</data>
+</edge>
+<edge source="Purani Haveli" target="Falaknuma Palace">
+  <data key="d0">4</data>
+</edge>
+<edge source="Purani Haveli" target="Hussain Sagar Lake">
+  <data key="d0">2</data>
+</edge>
+<edge source="Purani Haveli" target="Qubani ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Purani Haveli" target="Double ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Purani Haveli" target="Salar Jung Museum">
+  <data key="d0">4</data>
+</edge>
+<edge source="Purani Haveli" target="Mecca Masjid">
+  <data key="d0">4</data>
+</edge>
+<edge source="Purani Haveli" target="Nehru Zoological Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Purani Haveli" target="Spanish Mosque">
+  <data key="d0">3</data>
+</edge>
+<edge source="Purani Haveli" target="Himayat Sagar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Purani Haveli" target="Ramoji Film City">
+  <data key="d0">3</data>
+</edge>
+<edge source="Purani Haveli" target="Lal Bahadur Shastri Stadium">
+  <data key="d0">1</data>
+</edge>
+<edge source="Purani Haveli" target="Sanjeevaiah Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Purani Haveli" target="Golconda Fort">
+  <data key="d0">4</data>
+</edge>
+<edge source="Purani Haveli" target="NTR Gardens">
+  <data key="d0">2</data>
+</edge>
+<edge source="Purani Haveli" target="Chowmahalla Palace">
+  <data key="d0">4</data>
+</edge>
+<edge source="Purani Haveli" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Purani Haveli" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Purani Haveli" target="Haleem">
+  <data key="d0">4</data>
+</edge>
+<edge source="Purani Haveli" target="Laad Bazaar">
+  <data key="d0">4</data>
+</edge>
+<edge source="Purani Haveli" target="Bidri">
+  <data key="d0">3</data>
+</edge>
+<edge source="Purani Haveli" target="Lukhmi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Purani Haveli" target="Taramati Baradari">
+  <data key="d0">3</data>
+</edge>
+<edge source="Purani Haveli" target="Khatti Dal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Purani Haveli" target="Ocean Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Purani Haveli" target="Sanghi Temple">
+  <data key="d0">1</data>
+</edge>
+<edge source="Purani Haveli" target="Dalcha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Purani Haveli" target="Dum Pukht">
+  <data key="d0">1</data>
+</edge>
+<edge source="Purani Haveli" target="Secret Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Purani Haveli" target="Wonderla">
+  <data key="d0">1</data>
+</edge>
+<edge source="Purani Haveli" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Purani Haveli" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Purani Haveli" target="Mirchi ka Salan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Purani Haveli" target="Khubani ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Purani Haveli" target="Shadab">
+  <data key="d0">1</data>
+</edge>
+<edge source="Purani Haveli" target="Shah Ghouse">
+  <data key="d0">1</data>
+</edge>
+<edge source="Purani Haveli" target="Pista House">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lassi" target="Osmania Biscuit">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lassi" target="Almond House">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lassi" target="Karachi Bakery">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lassi" target="Irani Chai">
+  <data key="d0">3</data>
+</edge>
+<edge source="Lassi" target="Charminar">
+  <data key="d0">6</data>
+</edge>
+<edge source="Lassi" target="Sarvi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lassi" target="Lamakaan">
+  <data key="d0">3</data>
+</edge>
+<edge source="Lassi" target="Begum Bazaar">
+  <data key="d0">4</data>
+</edge>
+<edge source="Lassi" target="Botanical Garden">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lassi" target="Falaknuma Palace">
+  <data key="d0">3</data>
+</edge>
+<edge source="Lassi" target="Hussain Sagar Lake">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lassi" target="Qubani ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lassi" target="Double ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lassi" target="Salar Jung Museum">
+  <data key="d0">3</data>
+</edge>
+<edge source="Lassi" target="Mecca Masjid">
+  <data key="d0">3</data>
+</edge>
+<edge source="Lassi" target="Nehru Zoological Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lassi" target="Spanish Mosque">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lassi" target="Himayat Sagar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lassi" target="Ramoji Film City">
+  <data key="d0">3</data>
+</edge>
+<edge source="Lassi" target="Lal Bahadur Shastri Stadium">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lassi" target="Sanjeevaiah Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lassi" target="Golconda Fort">
+  <data key="d0">4</data>
+</edge>
+<edge source="Lassi" target="NTR Gardens">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lassi" target="Chowmahalla Palace">
+  <data key="d0">4</data>
+</edge>
+<edge source="Lassi" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lassi" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lassi" target="Haleem">
+  <data key="d0">3</data>
+</edge>
+<edge source="Lassi" target="Laad Bazaar">
+  <data key="d0">3</data>
+</edge>
+<edge source="Lassi" target="Bidri">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lassi" target="Lukhmi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lassi" target="Taramati Baradari">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lassi" target="Khatti Dal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lassi" target="Ocean Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lassi" target="Sanghi Temple">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lassi" target="Dalcha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lassi" target="Dum Pukht">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lassi" target="Secret Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lassi" target="Wonderla">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lassi" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lassi" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ocean Park" target="Botanical Garden">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ocean Park" target="Falaknuma Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ocean Park" target="Hussain Sagar Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ocean Park" target="Taramati Baradari">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ocean Park" target="Salar Jung Museum">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ocean Park" target="Mecca Masjid">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ocean Park" target="Nehru Zoological Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ocean Park" target="Sanghi Temple">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ocean Park" target="Dalcha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ocean Park" target="Dum Pukht">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ocean Park" target="Secret Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ocean Park" target="Irani Chai">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ocean Park" target="Ramoji Film City">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ocean Park" target="Wonderla">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ocean Park" target="Sanjeevaiah Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ocean Park" target="Golconda Fort">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ocean Park" target="Charminar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ocean Park" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ocean Park" target="NTR Gardens">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ocean Park" target="Chowmahalla Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ocean Park" target="Haleem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ocean Park" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ocean Park" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ocean Park" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lukhmi" target="Sheermal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lukhmi" target="Dalcha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lukhmi" target="Khatti Dal">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lukhmi" target="Haleem">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lukhmi" target="Osmania Biscuit">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lukhmi" target="Falaknuma Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lukhmi" target="Taramati Baradari">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lukhmi" target="Salar Jung Museum">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lukhmi" target="Mecca Masjid">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lukhmi" target="Spanish Mosque">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lukhmi" target="Irani Chai">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lukhmi" target="Ramoji Film City">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lukhmi" target="Golconda Fort">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lukhmi" target="Charminar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lukhmi" target="Lamakaan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lukhmi" target="Chowmahalla Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lukhmi" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lukhmi" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lukhmi" target="Bidri">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osmania Biscuit" target="Almond House">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osmania Biscuit" target="Karachi Bakery">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osmania Biscuit" target="Irani Chai">
+  <data key="d0">2</data>
+</edge>
+<edge source="Osmania Biscuit" target="Charminar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Osmania Biscuit" target="Sarvi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osmania Biscuit" target="Lamakaan">
+  <data key="d0">2</data>
+</edge>
+<edge source="Osmania Biscuit" target="Begum Bazaar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Osmania Biscuit" target="Falaknuma Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osmania Biscuit" target="Taramati Baradari">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osmania Biscuit" target="Salar Jung Museum">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osmania Biscuit" target="Mecca Masjid">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osmania Biscuit" target="Spanish Mosque">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osmania Biscuit" target="Ramoji Film City">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osmania Biscuit" target="Golconda Fort">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osmania Biscuit" target="Chowmahalla Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osmania Biscuit" target="Khatti Dal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osmania Biscuit" target="Haleem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osmania Biscuit" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Osmania Biscuit" target="Bidri">
+  <data key="d0">1</data>
+</edge>
+<edge source="Botanical Garden" target="Falaknuma Palace">
+  <data key="d0">2</data>
+</edge>
+<edge source="Botanical Garden" target="Hussain Sagar Lake">
+  <data key="d0">2</data>
+</edge>
+<edge source="Botanical Garden" target="Qubani ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Botanical Garden" target="Double ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Botanical Garden" target="Salar Jung Museum">
+  <data key="d0">2</data>
+</edge>
+<edge source="Botanical Garden" target="Mecca Masjid">
+  <data key="d0">2</data>
+</edge>
+<edge source="Botanical Garden" target="Nehru Zoological Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Botanical Garden" target="Spanish Mosque">
+  <data key="d0">1</data>
+</edge>
+<edge source="Botanical Garden" target="Himayat Sagar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Botanical Garden" target="Ramoji Film City">
+  <data key="d0">2</data>
+</edge>
+<edge source="Botanical Garden" target="Lal Bahadur Shastri Stadium">
+  <data key="d0">1</data>
+</edge>
+<edge source="Botanical Garden" target="Sanjeevaiah Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Botanical Garden" target="Golconda Fort">
+  <data key="d0">2</data>
+</edge>
+<edge source="Botanical Garden" target="Charminar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Botanical Garden" target="NTR Gardens">
+  <data key="d0">2</data>
+</edge>
+<edge source="Botanical Garden" target="Lamakaan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Botanical Garden" target="Chowmahalla Palace">
+  <data key="d0">2</data>
+</edge>
+<edge source="Botanical Garden" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Botanical Garden" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Botanical Garden" target="Haleem">
+  <data key="d0">2</data>
+</edge>
+<edge source="Botanical Garden" target="Begum Bazaar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Botanical Garden" target="Laad Bazaar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Botanical Garden" target="Bidri">
+  <data key="d0">1</data>
+</edge>
+<edge source="Botanical Garden" target="Taramati Baradari">
+  <data key="d0">1</data>
+</edge>
+<edge source="Botanical Garden" target="Sanghi Temple">
+  <data key="d0">1</data>
+</edge>
+<edge source="Botanical Garden" target="Dalcha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Botanical Garden" target="Dum Pukht">
+  <data key="d0">1</data>
+</edge>
+<edge source="Botanical Garden" target="Secret Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Botanical Garden" target="Irani Chai">
+  <data key="d0">1</data>
+</edge>
+<edge source="Botanical Garden" target="Wonderla">
+  <data key="d0">1</data>
+</edge>
+<edge source="Botanical Garden" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Botanical Garden" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Falaknuma Palace" target="Charminar">
+  <data key="d0">5</data>
+</edge>
+<edge source="Falaknuma Palace" target="Hussain Sagar Lake">
+  <data key="d0">2</data>
+</edge>
+<edge source="Falaknuma Palace" target="Qubani ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Falaknuma Palace" target="Double ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Falaknuma Palace" target="Salar Jung Museum">
+  <data key="d0">4</data>
+</edge>
+<edge source="Falaknuma Palace" target="Mecca Masjid">
+  <data key="d0">4</data>
+</edge>
+<edge source="Falaknuma Palace" target="Nehru Zoological Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Falaknuma Palace" target="Spanish Mosque">
+  <data key="d0">3</data>
+</edge>
+<edge source="Falaknuma Palace" target="Himayat Sagar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Falaknuma Palace" target="Ramoji Film City">
+  <data key="d0">3</data>
+</edge>
+<edge source="Falaknuma Palace" target="Lal Bahadur Shastri Stadium">
+  <data key="d0">1</data>
+</edge>
+<edge source="Falaknuma Palace" target="Sanjeevaiah Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Falaknuma Palace" target="Golconda Fort">
+  <data key="d0">4</data>
+</edge>
+<edge source="Falaknuma Palace" target="NTR Gardens">
+  <data key="d0">2</data>
+</edge>
+<edge source="Falaknuma Palace" target="Lamakaan">
+  <data key="d0">2</data>
+</edge>
+<edge source="Falaknuma Palace" target="Chowmahalla Palace">
+  <data key="d0">4</data>
+</edge>
+<edge source="Falaknuma Palace" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Falaknuma Palace" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Falaknuma Palace" target="Haleem">
+  <data key="d0">4</data>
+</edge>
+<edge source="Falaknuma Palace" target="Begum Bazaar">
+  <data key="d0">4</data>
+</edge>
+<edge source="Falaknuma Palace" target="Laad Bazaar">
+  <data key="d0">4</data>
+</edge>
+<edge source="Falaknuma Palace" target="Bidri">
+  <data key="d0">3</data>
+</edge>
+<edge source="Falaknuma Palace" target="Taramati Baradari">
+  <data key="d0">3</data>
+</edge>
+<edge source="Falaknuma Palace" target="Irani Chai">
+  <data key="d0">3</data>
+</edge>
+<edge source="Falaknuma Palace" target="Khatti Dal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Falaknuma Palace" target="Sanghi Temple">
+  <data key="d0">1</data>
+</edge>
+<edge source="Falaknuma Palace" target="Dalcha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Falaknuma Palace" target="Dum Pukht">
+  <data key="d0">1</data>
+</edge>
+<edge source="Falaknuma Palace" target="Secret Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Falaknuma Palace" target="Wonderla">
+  <data key="d0">1</data>
+</edge>
+<edge source="Falaknuma Palace" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Falaknuma Palace" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Falaknuma Palace" target="Mirchi ka Salan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Falaknuma Palace" target="Khubani ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Falaknuma Palace" target="Shadab">
+  <data key="d0">1</data>
+</edge>
+<edge source="Falaknuma Palace" target="Shah Ghouse">
+  <data key="d0">1</data>
+</edge>
+<edge source="Falaknuma Palace" target="Pista House">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="Qubani ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="Double ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="Salar Jung Museum">
+  <data key="d0">2</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="Mecca Masjid">
+  <data key="d0">2</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="Nehru Zoological Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="Spanish Mosque">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="Himayat Sagar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="Ramoji Film City">
+  <data key="d0">2</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="Lal Bahadur Shastri Stadium">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="Sanjeevaiah Park">
+  <data key="d0">3</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="Golconda Fort">
+  <data key="d0">3</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="Charminar">
+  <data key="d0">3</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="NTR Gardens">
+  <data key="d0">3</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="Lamakaan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="Chowmahalla Palace">
+  <data key="d0">2</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="Haleem">
+  <data key="d0">2</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="Begum Bazaar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="Laad Bazaar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="Bidri">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="Taramati Baradari">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="Sanghi Temple">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="Dalcha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="Dum Pukht">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="Secret Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="Irani Chai">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="Wonderla">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Hussain Sagar Lake" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qubani ka Meetha" target="Double ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qubani ka Meetha" target="Salar Jung Museum">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qubani ka Meetha" target="Mecca Masjid">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qubani ka Meetha" target="Nehru Zoological Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qubani ka Meetha" target="Spanish Mosque">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qubani ka Meetha" target="Himayat Sagar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qubani ka Meetha" target="Ramoji Film City">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qubani ka Meetha" target="Lal Bahadur Shastri Stadium">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qubani ka Meetha" target="Sanjeevaiah Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qubani ka Meetha" target="Golconda Fort">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qubani ka Meetha" target="Charminar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qubani ka Meetha" target="NTR Gardens">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qubani ka Meetha" target="Lamakaan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qubani ka Meetha" target="Chowmahalla Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qubani ka Meetha" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qubani ka Meetha" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qubani ka Meetha" target="Haleem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qubani ka Meetha" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qubani ka Meetha" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Qubani ka Meetha" target="Bidri">
+  <data key="d0">1</data>
+</edge>
+<edge source="Double ka Meetha" target="Salar Jung Museum">
+  <data key="d0">1</data>
+</edge>
+<edge source="Double ka Meetha" target="Mecca Masjid">
+  <data key="d0">1</data>
+</edge>
+<edge source="Double ka Meetha" target="Nehru Zoological Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Double ka Meetha" target="Spanish Mosque">
+  <data key="d0">1</data>
+</edge>
+<edge source="Double ka Meetha" target="Himayat Sagar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Double ka Meetha" target="Ramoji Film City">
+  <data key="d0">1</data>
+</edge>
+<edge source="Double ka Meetha" target="Lal Bahadur Shastri Stadium">
+  <data key="d0">1</data>
+</edge>
+<edge source="Double ka Meetha" target="Sanjeevaiah Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Double ka Meetha" target="Golconda Fort">
+  <data key="d0">1</data>
+</edge>
+<edge source="Double ka Meetha" target="Charminar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Double ka Meetha" target="NTR Gardens">
+  <data key="d0">1</data>
+</edge>
+<edge source="Double ka Meetha" target="Lamakaan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Double ka Meetha" target="Chowmahalla Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Double ka Meetha" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Double ka Meetha" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Double ka Meetha" target="Haleem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Double ka Meetha" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Double ka Meetha" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Double ka Meetha" target="Bidri">
+  <data key="d0">1</data>
+</edge>
+<edge source="Taramati Baradari" target="Salar Jung Museum">
+  <data key="d0">3</data>
+</edge>
+<edge source="Taramati Baradari" target="Mecca Masjid">
+  <data key="d0">3</data>
+</edge>
+<edge source="Taramati Baradari" target="Spanish Mosque">
+  <data key="d0">2</data>
+</edge>
+<edge source="Taramati Baradari" target="Irani Chai">
+  <data key="d0">3</data>
+</edge>
+<edge source="Taramati Baradari" target="Ramoji Film City">
+  <data key="d0">2</data>
+</edge>
+<edge source="Taramati Baradari" target="Golconda Fort">
+  <data key="d0">3</data>
+</edge>
+<edge source="Taramati Baradari" target="Charminar">
+  <data key="d0">3</data>
+</edge>
+<edge source="Taramati Baradari" target="Lamakaan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Taramati Baradari" target="Chowmahalla Palace">
+  <data key="d0">3</data>
+</edge>
+<edge source="Taramati Baradari" target="Khatti Dal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Taramati Baradari" target="Haleem">
+  <data key="d0">3</data>
+</edge>
+<edge source="Taramati Baradari" target="Begum Bazaar">
+  <data key="d0">3</data>
+</edge>
+<edge source="Taramati Baradari" target="Laad Bazaar">
+  <data key="d0">3</data>
+</edge>
+<edge source="Taramati Baradari" target="Bidri">
+  <data key="d0">2</data>
+</edge>
+<edge source="Taramati Baradari" target="Nehru Zoological Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Taramati Baradari" target="Sanghi Temple">
+  <data key="d0">1</data>
+</edge>
+<edge source="Taramati Baradari" target="Dalcha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Taramati Baradari" target="Dum Pukht">
+  <data key="d0">1</data>
+</edge>
+<edge source="Taramati Baradari" target="Secret Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Taramati Baradari" target="Wonderla">
+  <data key="d0">1</data>
+</edge>
+<edge source="Taramati Baradari" target="Sanjeevaiah Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Taramati Baradari" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Taramati Baradari" target="NTR Gardens">
+  <data key="d0">1</data>
+</edge>
+<edge source="Taramati Baradari" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Taramati Baradari" target="Mirchi ka Salan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Taramati Baradari" target="Khubani ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Taramati Baradari" target="Shadab">
+  <data key="d0">1</data>
+</edge>
+<edge source="Taramati Baradari" target="Shah Ghouse">
+  <data key="d0">1</data>
+</edge>
+<edge source="Taramati Baradari" target="Pista House">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sheermal" target="Dalcha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sheermal" target="Khatti Dal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sheermal" target="Haleem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Salar Jung Museum" target="Mecca Masjid">
+  <data key="d0">4</data>
+</edge>
+<edge source="Salar Jung Museum" target="Nehru Zoological Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Salar Jung Museum" target="Spanish Mosque">
+  <data key="d0">3</data>
+</edge>
+<edge source="Salar Jung Museum" target="Himayat Sagar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Salar Jung Museum" target="Ramoji Film City">
+  <data key="d0">3</data>
+</edge>
+<edge source="Salar Jung Museum" target="Lal Bahadur Shastri Stadium">
+  <data key="d0">1</data>
+</edge>
+<edge source="Salar Jung Museum" target="Sanjeevaiah Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Salar Jung Museum" target="Golconda Fort">
+  <data key="d0">4</data>
+</edge>
+<edge source="Salar Jung Museum" target="Charminar">
+  <data key="d0">4</data>
+</edge>
+<edge source="Salar Jung Museum" target="NTR Gardens">
+  <data key="d0">2</data>
+</edge>
+<edge source="Salar Jung Museum" target="Lamakaan">
+  <data key="d0">2</data>
+</edge>
+<edge source="Salar Jung Museum" target="Chowmahalla Palace">
+  <data key="d0">4</data>
+</edge>
+<edge source="Salar Jung Museum" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Salar Jung Museum" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Salar Jung Museum" target="Haleem">
+  <data key="d0">4</data>
+</edge>
+<edge source="Salar Jung Museum" target="Begum Bazaar">
+  <data key="d0">4</data>
+</edge>
+<edge source="Salar Jung Museum" target="Laad Bazaar">
+  <data key="d0">4</data>
+</edge>
+<edge source="Salar Jung Museum" target="Bidri">
+  <data key="d0">3</data>
+</edge>
+<edge source="Salar Jung Museum" target="Irani Chai">
+  <data key="d0">3</data>
+</edge>
+<edge source="Salar Jung Museum" target="Khatti Dal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Salar Jung Museum" target="Sanghi Temple">
+  <data key="d0">1</data>
+</edge>
+<edge source="Salar Jung Museum" target="Dalcha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Salar Jung Museum" target="Dum Pukht">
+  <data key="d0">1</data>
+</edge>
+<edge source="Salar Jung Museum" target="Secret Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Salar Jung Museum" target="Wonderla">
+  <data key="d0">1</data>
+</edge>
+<edge source="Salar Jung Museum" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Salar Jung Museum" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Salar Jung Museum" target="Mirchi ka Salan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Salar Jung Museum" target="Khubani ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Salar Jung Museum" target="Shadab">
+  <data key="d0">1</data>
+</edge>
+<edge source="Salar Jung Museum" target="Shah Ghouse">
+  <data key="d0">1</data>
+</edge>
+<edge source="Salar Jung Museum" target="Pista House">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mecca Masjid" target="Nehru Zoological Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Mecca Masjid" target="Spanish Mosque">
+  <data key="d0">3</data>
+</edge>
+<edge source="Mecca Masjid" target="Himayat Sagar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mecca Masjid" target="Ramoji Film City">
+  <data key="d0">3</data>
+</edge>
+<edge source="Mecca Masjid" target="Lal Bahadur Shastri Stadium">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mecca Masjid" target="Sanjeevaiah Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Mecca Masjid" target="Golconda Fort">
+  <data key="d0">4</data>
+</edge>
+<edge source="Mecca Masjid" target="Charminar">
+  <data key="d0">4</data>
+</edge>
+<edge source="Mecca Masjid" target="NTR Gardens">
+  <data key="d0">2</data>
+</edge>
+<edge source="Mecca Masjid" target="Lamakaan">
+  <data key="d0">2</data>
+</edge>
+<edge source="Mecca Masjid" target="Chowmahalla Palace">
+  <data key="d0">4</data>
+</edge>
+<edge source="Mecca Masjid" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mecca Masjid" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mecca Masjid" target="Haleem">
+  <data key="d0">4</data>
+</edge>
+<edge source="Mecca Masjid" target="Begum Bazaar">
+  <data key="d0">4</data>
+</edge>
+<edge source="Mecca Masjid" target="Laad Bazaar">
+  <data key="d0">4</data>
+</edge>
+<edge source="Mecca Masjid" target="Bidri">
+  <data key="d0">3</data>
+</edge>
+<edge source="Mecca Masjid" target="Irani Chai">
+  <data key="d0">3</data>
+</edge>
+<edge source="Mecca Masjid" target="Khatti Dal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mecca Masjid" target="Sanghi Temple">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mecca Masjid" target="Dalcha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mecca Masjid" target="Dum Pukht">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mecca Masjid" target="Secret Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mecca Masjid" target="Wonderla">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mecca Masjid" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mecca Masjid" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mecca Masjid" target="Mirchi ka Salan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mecca Masjid" target="Khubani ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mecca Masjid" target="Shadab">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mecca Masjid" target="Shah Ghouse">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mecca Masjid" target="Pista House">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nehru Zoological Park" target="Spanish Mosque">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nehru Zoological Park" target="Himayat Sagar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nehru Zoological Park" target="Ramoji Film City">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nehru Zoological Park" target="Lal Bahadur Shastri Stadium">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nehru Zoological Park" target="Sanjeevaiah Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nehru Zoological Park" target="Golconda Fort">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nehru Zoological Park" target="Charminar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nehru Zoological Park" target="NTR Gardens">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nehru Zoological Park" target="Lamakaan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nehru Zoological Park" target="Chowmahalla Palace">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nehru Zoological Park" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nehru Zoological Park" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nehru Zoological Park" target="Haleem">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nehru Zoological Park" target="Begum Bazaar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nehru Zoological Park" target="Laad Bazaar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Nehru Zoological Park" target="Bidri">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nehru Zoological Park" target="Sanghi Temple">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nehru Zoological Park" target="Dalcha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nehru Zoological Park" target="Dum Pukht">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nehru Zoological Park" target="Secret Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nehru Zoological Park" target="Irani Chai">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nehru Zoological Park" target="Wonderla">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nehru Zoological Park" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Nehru Zoological Park" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Almond House" target="Karachi Bakery">
+  <data key="d0">1</data>
+</edge>
+<edge source="Almond House" target="Irani Chai">
+  <data key="d0">1</data>
+</edge>
+<edge source="Almond House" target="Charminar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Almond House" target="Sarvi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Almond House" target="Lamakaan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Almond House" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sanghi Temple" target="Dalcha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sanghi Temple" target="Dum Pukht">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sanghi Temple" target="Secret Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sanghi Temple" target="Irani Chai">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sanghi Temple" target="Ramoji Film City">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sanghi Temple" target="Wonderla">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sanghi Temple" target="Sanjeevaiah Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sanghi Temple" target="Golconda Fort">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sanghi Temple" target="Charminar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sanghi Temple" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sanghi Temple" target="NTR Gardens">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sanghi Temple" target="Chowmahalla Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sanghi Temple" target="Haleem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sanghi Temple" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sanghi Temple" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sanghi Temple" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mirchi ka Salan" target="Spanish Mosque">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mirchi ka Salan" target="Khubani ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mirchi ka Salan" target="Irani Chai">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mirchi ka Salan" target="Shadab">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mirchi ka Salan" target="Golconda Fort">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mirchi ka Salan" target="Charminar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mirchi ka Salan" target="Shah Ghouse">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mirchi ka Salan" target="Pista House">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mirchi ka Salan" target="Chowmahalla Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mirchi ka Salan" target="Haleem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mirchi ka Salan" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mirchi ka Salan" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Mirchi ka Salan" target="Bidri">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dalcha" target="Khatti Dal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dalcha" target="Haleem">
+  <data key="d0">2</data>
+</edge>
+<edge source="Dalcha" target="Dum Pukht">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dalcha" target="Secret Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dalcha" target="Irani Chai">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dalcha" target="Ramoji Film City">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dalcha" target="Wonderla">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dalcha" target="Sanjeevaiah Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dalcha" target="Golconda Fort">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dalcha" target="Charminar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dalcha" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dalcha" target="NTR Gardens">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dalcha" target="Chowmahalla Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dalcha" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dalcha" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dalcha" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Spanish Mosque" target="Himayat Sagar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Spanish Mosque" target="Ramoji Film City">
+  <data key="d0">2</data>
+</edge>
+<edge source="Spanish Mosque" target="Lal Bahadur Shastri Stadium">
+  <data key="d0">1</data>
+</edge>
+<edge source="Spanish Mosque" target="Sanjeevaiah Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Spanish Mosque" target="Golconda Fort">
+  <data key="d0">3</data>
+</edge>
+<edge source="Spanish Mosque" target="Charminar">
+  <data key="d0">3</data>
+</edge>
+<edge source="Spanish Mosque" target="NTR Gardens">
+  <data key="d0">1</data>
+</edge>
+<edge source="Spanish Mosque" target="Lamakaan">
+  <data key="d0">2</data>
+</edge>
+<edge source="Spanish Mosque" target="Chowmahalla Palace">
+  <data key="d0">3</data>
+</edge>
+<edge source="Spanish Mosque" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Spanish Mosque" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Spanish Mosque" target="Haleem">
+  <data key="d0">3</data>
+</edge>
+<edge source="Spanish Mosque" target="Begum Bazaar">
+  <data key="d0">3</data>
+</edge>
+<edge source="Spanish Mosque" target="Laad Bazaar">
+  <data key="d0">3</data>
+</edge>
+<edge source="Spanish Mosque" target="Bidri">
+  <data key="d0">3</data>
+</edge>
+<edge source="Spanish Mosque" target="Irani Chai">
+  <data key="d0">2</data>
+</edge>
+<edge source="Spanish Mosque" target="Khatti Dal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Spanish Mosque" target="Khubani ka Meetha">
+  <data key="d0">1</data>
+</edge>
+<edge source="Spanish Mosque" target="Shadab">
+  <data key="d0">1</data>
+</edge>
+<edge source="Spanish Mosque" target="Shah Ghouse">
+  <data key="d0">1</data>
+</edge>
+<edge source="Spanish Mosque" target="Pista House">
+  <data key="d0">1</data>
+</edge>
+<edge source="Khubani ka Meetha" target="Irani Chai">
+  <data key="d0">1</data>
+</edge>
+<edge source="Khubani ka Meetha" target="Shadab">
+  <data key="d0">1</data>
+</edge>
+<edge source="Khubani ka Meetha" target="Golconda Fort">
+  <data key="d0">1</data>
+</edge>
+<edge source="Khubani ka Meetha" target="Charminar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Khubani ka Meetha" target="Shah Ghouse">
+  <data key="d0">1</data>
+</edge>
+<edge source="Khubani ka Meetha" target="Pista House">
+  <data key="d0">1</data>
+</edge>
+<edge source="Khubani ka Meetha" target="Chowmahalla Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Khubani ka Meetha" target="Haleem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Khubani ka Meetha" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Khubani ka Meetha" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Khubani ka Meetha" target="Bidri">
+  <data key="d0">1</data>
+</edge>
+<edge source="Karachi Bakery" target="Irani Chai">
+  <data key="d0">1</data>
+</edge>
+<edge source="Karachi Bakery" target="Charminar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Karachi Bakery" target="Sarvi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Karachi Bakery" target="Lamakaan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Karachi Bakery" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dum Pukht" target="Secret Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dum Pukht" target="Irani Chai">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dum Pukht" target="Ramoji Film City">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dum Pukht" target="Wonderla">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dum Pukht" target="Sanjeevaiah Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dum Pukht" target="Golconda Fort">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dum Pukht" target="Charminar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dum Pukht" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dum Pukht" target="NTR Gardens">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dum Pukht" target="Chowmahalla Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dum Pukht" target="Haleem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dum Pukht" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dum Pukht" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Dum Pukht" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Himayat Sagar" target="Ramoji Film City">
+  <data key="d0">1</data>
+</edge>
+<edge source="Himayat Sagar" target="Lal Bahadur Shastri Stadium">
+  <data key="d0">1</data>
+</edge>
+<edge source="Himayat Sagar" target="Sanjeevaiah Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Himayat Sagar" target="Golconda Fort">
+  <data key="d0">2</data>
+</edge>
+<edge source="Himayat Sagar" target="Charminar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Himayat Sagar" target="NTR Gardens">
+  <data key="d0">2</data>
+</edge>
+<edge source="Himayat Sagar" target="Lamakaan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Himayat Sagar" target="Chowmahalla Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Himayat Sagar" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Himayat Sagar" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Himayat Sagar" target="Haleem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Himayat Sagar" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Himayat Sagar" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Himayat Sagar" target="Bidri">
+  <data key="d0">1</data>
+</edge>
+<edge source="Secret Lake" target="Irani Chai">
+  <data key="d0">1</data>
+</edge>
+<edge source="Secret Lake" target="Ramoji Film City">
+  <data key="d0">1</data>
+</edge>
+<edge source="Secret Lake" target="Wonderla">
+  <data key="d0">1</data>
+</edge>
+<edge source="Secret Lake" target="Sanjeevaiah Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Secret Lake" target="Golconda Fort">
+  <data key="d0">1</data>
+</edge>
+<edge source="Secret Lake" target="Charminar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Secret Lake" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Secret Lake" target="NTR Gardens">
+  <data key="d0">1</data>
+</edge>
+<edge source="Secret Lake" target="Chowmahalla Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Secret Lake" target="Haleem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Secret Lake" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Secret Lake" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Secret Lake" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Irani Chai" target="Charminar">
+  <data key="d0">4</data>
+</edge>
+<edge source="Irani Chai" target="Sarvi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Irani Chai" target="Lamakaan">
+  <data key="d0">2</data>
+</edge>
+<edge source="Irani Chai" target="Begum Bazaar">
+  <data key="d0">4</data>
+</edge>
+<edge source="Irani Chai" target="Ramoji Film City">
+  <data key="d0">2</data>
+</edge>
+<edge source="Irani Chai" target="Golconda Fort">
+  <data key="d0">3</data>
+</edge>
+<edge source="Irani Chai" target="Chowmahalla Palace">
+  <data key="d0">3</data>
+</edge>
+<edge source="Irani Chai" target="Khatti Dal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Irani Chai" target="Haleem">
+  <data key="d0">3</data>
+</edge>
+<edge source="Irani Chai" target="Laad Bazaar">
+  <data key="d0">3</data>
+</edge>
+<edge source="Irani Chai" target="Bidri">
+  <data key="d0">2</data>
+</edge>
+<edge source="Irani Chai" target="Wonderla">
+  <data key="d0">1</data>
+</edge>
+<edge source="Irani Chai" target="Sanjeevaiah Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Irani Chai" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Irani Chai" target="NTR Gardens">
+  <data key="d0">1</data>
+</edge>
+<edge source="Irani Chai" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Irani Chai" target="Shadab">
+  <data key="d0">1</data>
+</edge>
+<edge source="Irani Chai" target="Shah Ghouse">
+  <data key="d0">1</data>
+</edge>
+<edge source="Irani Chai" target="Pista House">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ramoji Film City" target="Lal Bahadur Shastri Stadium">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ramoji Film City" target="Sanjeevaiah Park">
+  <data key="d0">2</data>
+</edge>
+<edge source="Ramoji Film City" target="Golconda Fort">
+  <data key="d0">3</data>
+</edge>
+<edge source="Ramoji Film City" target="Charminar">
+  <data key="d0">3</data>
+</edge>
+<edge source="Ramoji Film City" target="NTR Gardens">
+  <data key="d0">2</data>
+</edge>
+<edge source="Ramoji Film City" target="Lamakaan">
+  <data key="d0">2</data>
+</edge>
+<edge source="Ramoji Film City" target="Chowmahalla Palace">
+  <data key="d0">3</data>
+</edge>
+<edge source="Ramoji Film City" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ramoji Film City" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ramoji Film City" target="Haleem">
+  <data key="d0">3</data>
+</edge>
+<edge source="Ramoji Film City" target="Begum Bazaar">
+  <data key="d0">3</data>
+</edge>
+<edge source="Ramoji Film City" target="Laad Bazaar">
+  <data key="d0">3</data>
+</edge>
+<edge source="Ramoji Film City" target="Bidri">
+  <data key="d0">2</data>
+</edge>
+<edge source="Ramoji Film City" target="Khatti Dal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ramoji Film City" target="Wonderla">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ramoji Film City" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ramoji Film City" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lal Bahadur Shastri Stadium" target="Sanjeevaiah Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lal Bahadur Shastri Stadium" target="Golconda Fort">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lal Bahadur Shastri Stadium" target="Charminar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lal Bahadur Shastri Stadium" target="NTR Gardens">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lal Bahadur Shastri Stadium" target="Lamakaan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lal Bahadur Shastri Stadium" target="Chowmahalla Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lal Bahadur Shastri Stadium" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lal Bahadur Shastri Stadium" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lal Bahadur Shastri Stadium" target="Haleem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lal Bahadur Shastri Stadium" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lal Bahadur Shastri Stadium" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lal Bahadur Shastri Stadium" target="Bidri">
+  <data key="d0">1</data>
+</edge>
+<edge source="Wonderla" target="Sanjeevaiah Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Wonderla" target="Golconda Fort">
+  <data key="d0">1</data>
+</edge>
+<edge source="Wonderla" target="Charminar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Wonderla" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Wonderla" target="NTR Gardens">
+  <data key="d0">1</data>
+</edge>
+<edge source="Wonderla" target="Chowmahalla Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Wonderla" target="Haleem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Wonderla" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Wonderla" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Wonderla" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shadab" target="Sarvi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shadab" target="Shah Ghouse">
+  <data key="d0">2</data>
+</edge>
+<edge source="Shadab" target="Pista House">
+  <data key="d0">2</data>
+</edge>
+<edge source="Shadab" target="Haleem">
+  <data key="d0">2</data>
+</edge>
+<edge source="Shadab" target="Grand Hotel">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shadab" target="Golconda Fort">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shadab" target="Charminar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shadab" target="Chowmahalla Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shadab" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shadab" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shadab" target="Bidri">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sanjeevaiah Park" target="Golconda Fort">
+  <data key="d0">3</data>
+</edge>
+<edge source="Sanjeevaiah Park" target="Charminar">
+  <data key="d0">3</data>
+</edge>
+<edge source="Sanjeevaiah Park" target="NTR Gardens">
+  <data key="d0">3</data>
+</edge>
+<edge source="Sanjeevaiah Park" target="Lamakaan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sanjeevaiah Park" target="Chowmahalla Palace">
+  <data key="d0">2</data>
+</edge>
+<edge source="Sanjeevaiah Park" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sanjeevaiah Park" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sanjeevaiah Park" target="Haleem">
+  <data key="d0">2</data>
+</edge>
+<edge source="Sanjeevaiah Park" target="Begum Bazaar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Sanjeevaiah Park" target="Laad Bazaar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Sanjeevaiah Park" target="Bidri">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sanjeevaiah Park" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sanjeevaiah Park" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Golconda Fort" target="Charminar">
+  <data key="d0">7</data>
+</edge>
+<edge source="Golconda Fort" target="NTR Gardens">
+  <data key="d0">3</data>
+</edge>
+<edge source="Golconda Fort" target="Lamakaan">
+  <data key="d0">2</data>
+</edge>
+<edge source="Golconda Fort" target="Chowmahalla Palace">
+  <data key="d0">4</data>
+</edge>
+<edge source="Golconda Fort" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Golconda Fort" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Golconda Fort" target="Haleem">
+  <data key="d0">4</data>
+</edge>
+<edge source="Golconda Fort" target="Begum Bazaar">
+  <data key="d0">4</data>
+</edge>
+<edge source="Golconda Fort" target="Laad Bazaar">
+  <data key="d0">5</data>
+</edge>
+<edge source="Golconda Fort" target="Bidri">
+  <data key="d0">3</data>
+</edge>
+<edge source="Golconda Fort" target="Khatti Dal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Golconda Fort" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Golconda Fort" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Golconda Fort" target="Shah Ghouse">
+  <data key="d0">1</data>
+</edge>
+<edge source="Golconda Fort" target="Pista House">
+  <data key="d0">1</data>
+</edge>
+<edge source="Charminar" target="Sarvi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Charminar" target="Lamakaan">
+  <data key="d0">3</data>
+</edge>
+<edge source="Charminar" target="Begum Bazaar">
+  <data key="d0">5</data>
+</edge>
+<edge source="Charminar" target="NTR Gardens">
+  <data key="d0">3</data>
+</edge>
+<edge source="Charminar" target="Chowmahalla Palace">
+  <data key="d0">5</data>
+</edge>
+<edge source="Charminar" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Charminar" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Charminar" target="Haleem">
+  <data key="d0">5</data>
+</edge>
+<edge source="Charminar" target="Laad Bazaar">
+  <data key="d0">5</data>
+</edge>
+<edge source="Charminar" target="Bidri">
+  <data key="d0">3</data>
+</edge>
+<edge source="Charminar" target="Khatti Dal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Charminar" target="KBR National Park">
+  <data key="d0">1</data>
+</edge>
+<edge source="Charminar" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Charminar" target="Shah Ghouse">
+  <data key="d0">1</data>
+</edge>
+<edge source="Charminar" target="Pista House">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sarvi" target="Lamakaan">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sarvi" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sarvi" target="Shah Ghouse">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sarvi" target="Pista House">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sarvi" target="Haleem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Sarvi" target="Grand Hotel">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shah Ghouse" target="Pista House">
+  <data key="d0">2</data>
+</edge>
+<edge source="Shah Ghouse" target="Haleem">
+  <data key="d0">2</data>
+</edge>
+<edge source="Shah Ghouse" target="Grand Hotel">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shah Ghouse" target="Chowmahalla Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shah Ghouse" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shah Ghouse" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shah Ghouse" target="Bidri">
+  <data key="d0">1</data>
+</edge>
+<edge source="KBR National Park" target="NTR Gardens">
+  <data key="d0">1</data>
+</edge>
+<edge source="KBR National Park" target="Chowmahalla Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="KBR National Park" target="Haleem">
+  <data key="d0">1</data>
+</edge>
+<edge source="KBR National Park" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="KBR National Park" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="KBR National Park" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="NTR Gardens" target="Lamakaan">
+  <data key="d0">1</data>
+</edge>
+<edge source="NTR Gardens" target="Chowmahalla Palace">
+  <data key="d0">2</data>
+</edge>
+<edge source="NTR Gardens" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="NTR Gardens" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="NTR Gardens" target="Haleem">
+  <data key="d0">2</data>
+</edge>
+<edge source="NTR Gardens" target="Begum Bazaar">
+  <data key="d0">2</data>
+</edge>
+<edge source="NTR Gardens" target="Laad Bazaar">
+  <data key="d0">2</data>
+</edge>
+<edge source="NTR Gardens" target="Bidri">
+  <data key="d0">1</data>
+</edge>
+<edge source="NTR Gardens" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Pista House" target="Haleem">
+  <data key="d0">2</data>
+</edge>
+<edge source="Pista House" target="Grand Hotel">
+  <data key="d0">1</data>
+</edge>
+<edge source="Pista House" target="Chowmahalla Palace">
+  <data key="d0">1</data>
+</edge>
+<edge source="Pista House" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Pista House" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Pista House" target="Bidri">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lamakaan" target="Begum Bazaar">
+  <data key="d0">3</data>
+</edge>
+<edge source="Lamakaan" target="Chowmahalla Palace">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lamakaan" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lamakaan" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Lamakaan" target="Haleem">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lamakaan" target="Laad Bazaar">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lamakaan" target="Bidri">
+  <data key="d0">2</data>
+</edge>
+<edge source="Lamakaan" target="Khatti Dal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Chowmahalla Palace" target="Shamirpet Lake">
+  <data key="d0">1</data>
+</edge>
+<edge source="Chowmahalla Palace" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Chowmahalla Palace" target="Haleem">
+  <data key="d0">4</data>
+</edge>
+<edge source="Chowmahalla Palace" target="Begum Bazaar">
+  <data key="d0">4</data>
+</edge>
+<edge source="Chowmahalla Palace" target="Laad Bazaar">
+  <data key="d0">4</data>
+</edge>
+<edge source="Chowmahalla Palace" target="Bidri">
+  <data key="d0">3</data>
+</edge>
+<edge source="Chowmahalla Palace" target="Khatti Dal">
+  <data key="d0">1</data>
+</edge>
+<edge source="Chowmahalla Palace" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Khatti Dal" target="Haleem">
+  <data key="d0">2</data>
+</edge>
+<edge source="Khatti Dal" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Khatti Dal" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Khatti Dal" target="Bidri">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shamirpet Lake" target="Ravindra Bharathi">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shamirpet Lake" target="Haleem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shamirpet Lake" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shamirpet Lake" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Shamirpet Lake" target="Bidri">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ravindra Bharathi" target="Haleem">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ravindra Bharathi" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ravindra Bharathi" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Ravindra Bharathi" target="Bidri">
+  <data key="d0">1</data>
+</edge>
+<edge source="Haleem" target="Begum Bazaar">
+  <data key="d0">4</data>
+</edge>
+<edge source="Haleem" target="Laad Bazaar">
+  <data key="d0">4</data>
+</edge>
+<edge source="Haleem" target="Bidri">
+  <data key="d0">3</data>
+</edge>
+<edge source="Haleem" target="Grand Hotel">
+  <data key="d0">1</data>
+</edge>
+<edge source="Haleem" target="Moula Ali Dargah">
+  <data key="d0">1</data>
+</edge>
+<edge source="Moula Ali Dargah" target="Begum Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Moula Ali Dargah" target="Laad Bazaar">
+  <data key="d0">1</data>
+</edge>
+<edge source="Begum Bazaar" target="Laad Bazaar">
+  <data key="d0">4</data>
+</edge>
+<edge source="Begum Bazaar" target="Bidri">
+  <data key="d0">3</data>
+</edge>
+<edge source="Laad Bazaar" target="Bidri">
+  <data key="d0">3</data>
+</edge>
+</graph></graphml>

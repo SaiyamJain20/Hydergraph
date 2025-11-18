@@ -1,0 +1,889 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hyderabad Cultural Network - Dashboard</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 40px 20px;
+            color: white;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 50px;
+            animation: fadeIn 1s ease-in;
+        }
+        h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+            text-shadow: 3px 3px 6px rgba(0,0,0,0.3);
+        }
+        .subtitle {
+            font-size: 1.2em;
+            opacity: 0.9;
+            margin-bottom: 20px;
+        }
+        .description {
+            max-width: 800px;
+            margin: 0 auto 40px;
+            background: rgba(0,0,0,0.3);
+            padding: 20px;
+            border-radius: 10px;
+            backdrop-filter: blur(10px);
+        }
+        .container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        .network-card {
+            background: rgba(255,255,255,0.1);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            padding: 0;
+            text-decoration: none;
+            color: white;
+            transition: all 0.3s ease;
+            border: 2px solid rgba(255,255,255,0.2);
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.3);
+        }
+        .network-card:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 15px 40px rgba(0,0,0,0.5);
+            border-color: rgba(255,255,255,0.4);
+        }
+        .card-header {
+            background: linear-gradient(135deg, rgba(78, 205, 196, 0.8), rgba(69, 184, 176, 0.8));
+            padding: 30px;
+            text-align: center;
+        }
+        .network-icon {
+            font-size: 3em;
+            margin-bottom: 10px;
+        }
+        .network-title {
+            font-size: 2em;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+        .card-body {
+            padding: 25px;
+        }
+        .network-desc {
+            font-size: 1em;
+            line-height: 1.6;
+            opacity: 0.9;
+            margin-bottom: 15px;
+        }
+        .network-stats {
+            background: rgba(0,0,0,0.3);
+            padding: 15px;
+            border-radius: 10px;
+            margin-top: 15px;
+        }
+        .stat-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 5px 0;
+        }
+        .legend-section {
+            background: rgba(0,0,0,0.4);
+            padding: 30px;
+            border-radius: 20px;
+            max-width: 900px;
+            margin: 50px auto 0;
+            backdrop-filter: blur(10px);
+            border: 2px solid rgba(255,255,255,0.2);
+        }
+        .legend-title {
+            text-align: center;
+            font-size: 1.8em;
+            margin-bottom: 25px;
+            color: #FFE66D;
+        }
+        .legend-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        .legend-item {
+            text-align: center;
+            padding: 15px;
+            background: rgba(255,255,255,0.1);
+            border-radius: 10px;
+        }
+        .legend-dot {
+            font-size: 2em;
+            margin-bottom: 5px;
+        }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .btn {
+            display: inline-block;
+            background: linear-gradient(135deg, #4ECDC4, #45b8b0);
+            padding: 15px 30px;
+            border-radius: 30px;
+            text-decoration: none;
+            color: white;
+            font-weight: bold;
+            margin-top: 15px;
+            transition: all 0.3s;
+        }
+        .btn:hover {
+            transform: scale(1.05);
+            box-shadow: 0 5px 15px rgba(78, 205, 196, 0.4);
+        }
+        
+        /* Recommender Section Styles */
+        .recommender-section {
+            background: rgba(0,0,0,0.4);
+            padding: 30px;
+            border-radius: 20px;
+            max-width: 1200px;
+            margin: 50px auto;
+            backdrop-filter: blur(10px);
+            border: 2px solid rgba(255,255,255,0.2);
+        }
+        
+        .recommender-title {
+            text-align: center;
+            font-size: 2.2em;
+            margin-bottom: 15px;
+            color: #FFE66D;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+        }
+        
+        .recommender-subtitle {
+            text-align: center;
+            font-size: 1.1em;
+            margin-bottom: 30px;
+            opacity: 0.9;
+            line-height: 1.5;
+        }
+        
+        .input-form {
+            background: rgba(255,255,255,0.1);
+            padding: 25px;
+            border-radius: 15px;
+            margin-bottom: 30px;
+            border: 1px solid rgba(255,255,255,0.2);
+        }
+        
+        .form-group {
+            margin-bottom: 20px;
+        }
+        
+        .form-label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 8px;
+            color: #FFE66D;
+            font-size: 1.1em;
+        }
+        
+        .form-input {
+            width: 100%;
+            padding: 12px 15px;
+            border: 2px solid rgba(255,255,255,0.3);
+            border-radius: 10px;
+            background: rgba(255,255,255,0.1);
+            color: white;
+            font-size: 1em;
+            transition: all 0.3s ease;
+            resize: vertical;
+            min-height: 60px;
+        }
+        
+        .form-input:focus {
+            outline: none;
+            border-color: #4ECDC4;
+            box-shadow: 0 0 10px rgba(78, 205, 196, 0.3);
+            background: rgba(255,255,255,0.15);
+        }
+        
+        .form-input::placeholder {
+            color: rgba(255,255,255,0.6);
+        }
+        
+        .form-select {
+            width: 100%;
+            padding: 12px 15px;
+            border: 2px solid rgba(255,255,255,0.3);
+            border-radius: 10px;
+            background: rgba(255,255,255,0.1);
+            color: white;
+            font-size: 1em;
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+        
+        .form-select:focus {
+            outline: none;
+            border-color: #4ECDC4;
+            box-shadow: 0 0 10px rgba(78, 205, 196, 0.3);
+        }
+        
+        .form-select option {
+            background: #2c3e50;
+            color: white;
+            padding: 10px;
+        }
+
+        /* NEW: Slider styles */
+        .form-range {
+            -webkit-appearance: none;
+            width: 100%;
+            height: 8px;
+            border-radius: 5px;
+            background: rgba(0,0,0,0.3);
+            outline: none;
+            opacity: 0.7;
+            transition: opacity .2s;
+        }
+        .form-range:hover {
+            opacity: 1;
+        }
+        .form-range::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background: #4ECDC4;
+            cursor: pointer;
+            border: 2px solid white;
+        }
+        .form-range::-moz-range-thumb {
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background: #4ECDC4;
+            cursor: pointer;
+            border: 2px solid white;
+        }
+        /* END NEW */
+        
+        .submit-btn {
+            background: linear-gradient(135deg, #4ECDC4, #45b8b0);
+            color: white;
+            border: none;
+            padding: 15px 40px;
+            border-radius: 30px;
+            font-size: 1.1em;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: block;
+            margin: 20px auto 0;
+            min-width: 200px;
+        }
+        
+        .submit-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(78, 205, 196, 0.4);
+        }
+        
+        .submit-btn:disabled {
+            opacity: 0.6;
+            cursor: not-allowed;
+            transform: none;
+        }
+        
+        .results-section {
+            margin-top: 30px;
+            padding: 25px;
+            background: rgba(255,255,255,0.05);
+            border-radius: 15px;
+            border: 1px solid rgba(255,255,255,0.1);
+            display: none;
+        }
+        
+        .results-title {
+            font-size: 1.4em;
+            color: #FFE66D;
+            margin-bottom: 15px;
+            text-align: center;
+        }
+        
+        .entities-found {
+            background: rgba(78, 205, 196, 0.2);
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            border-left: 4px solid #4ECDC4;
+        }
+        
+        .entity-tag {
+            display: inline-block;
+            background: rgba(78, 205, 196, 0.8);
+            color: white;
+            padding: 5px 12px;
+            border-radius: 20px;
+            margin: 3px;
+            font-size: 0.9em;
+            font-weight: bold;
+        }
+        
+        .recommendation-item {
+            background: rgba(255,255,255,0.1);
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 15px;
+            border-left: 4px solid #FFE66D;
+        }
+        
+        .rec-entity {
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #FFE66D;
+            margin-bottom: 10px;
+        }
+        
+        .rec-list {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            align-items: center;
+        }
+        
+        .rec-tag {
+            background: rgba(255, 230, 109, 0.2);
+            color: #FFE66D;
+            padding: 5px 10px;
+            border-radius: 15px;
+            font-size: 0.9em;
+            border: 1px solid rgba(255, 230, 109, 0.4);
+        }
+        
+        .loading {
+            text-align: center;
+            color: #4ECDC4;
+            font-size: 1.1em;
+            padding: 20px;
+        }
+        
+        .error-message {
+            background: rgba(231, 76, 60, 0.2);
+            color: #e74c3c;
+            padding: 15px;
+            border-radius: 10px;
+            margin-top: 15px;
+            border-left: 4px solid #e74c3c;
+        }
+        
+        .success-message {
+            background: rgba(46, 204, 113, 0.2);
+            color: #2ecc71;
+            padding: 15px;
+            border-radius: 10px;
+            margin-top: 15px;
+            border-left: 4px solid #2ecc71;
+        }
+        
+        .recommender-info {
+            background: rgba(52, 152, 219, 0.2);
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            border-left: 4px solid #3498db;
+            color: #3498db;
+            font-size: 0.95em;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <!-- ... (Keep your Header and Network Cards section) ... -->
+    <div class="header">
+        <h1>🕸️ Hyderabad Cultural Network</h1>
+        <div class="subtitle">P15: Hydergraph - Mapping Culture Through Food & Heritage</div>
+    </div>
+    
+    <div class="description">
+        <p><strong>🎯 Project Overview:</strong> This interactive network visualization maps the cultural connections 
+        between food, places, and heritage in Hyderabad. Each network represents different levels of association 
+        between entities based on how they co-occur in online content.</p>
+    </div>
+    
+    <div class="container">
+        <a href="sentence_interactive.html" class="network-card">
+            <div class="card-header">
+                <div class="network-icon">💬</div>
+                <div class="network-title">Sentence Network</div>
+            </div>
+            <div class="card-body">
+                <div class="network-desc">
+                    <strong>Strongest Associations</strong><br>
+                    Shows entities that appear together in the same sentences - 
+                    the most direct and immediate cultural connections.
+                </div>
+            </div>
+        </a>
+        
+        <a href="paragraph_interactive.html" class="network-card">
+            <div class="card-header">
+                <div class="network-icon">📝</div>
+                <div class="network-title">Paragraph Network</div>
+            </div>
+            <div class="card-body">
+                <div class="network-desc">
+                    <strong>Moderate Associations</strong><br>
+                    Shows entities discussed together in paragraphs - 
+                    revealing thematic and contextual relationships.
+                </div>
+            </div>
+        </a>
+        
+        <a href="page_interactive.html" class="network-card">
+            <div class="card-header">
+                <div class="network-icon">📄</div>
+                <div class="network-title">Page Network</div>
+            </div>
+            <div class="card-body">
+                <div class="network-desc">
+                    <strong>Broad Associations</strong><br>
+                    Shows entities mentioned in the same articles/pages - 
+                    capturing the wider cultural landscape.
+                </div>
+            </div>
+        </a>
+    </div>
+    
+    <!-- Recommender System Section -->
+    <div class="recommender-section">
+        <div class="recommender-title">🤖 Smart Recommender System</div>
+        <div class="recommender-subtitle">
+            Enter a sentence about your Hyderabad experience and let our AI recommend places, food, and activities based on cultural connections!
+        </div>
+        
+        <div class="input-form">
+            <div class="form-group">
+                <label for="userText" class="form-label">💬 Your Experience</label>
+                <textarea 
+                    id="userText" 
+                    class="form-input" 
+                    placeholder="Share your experience, ask a question, or describe what you're looking for..."
+                    rows="3"
+                ></textarea>
+            </div>
+            
+            <!-- NEW: Network Selection -->
+            <div class="form-group">
+                <label for="networkType" class="form-label">🕸️ Network Granularity</label>
+                <select id="networkType" class="form-select">
+                    <option value="sentence">Sentence Network (Strongest, Direct Links)</option>
+                    <option value="paragraph">Paragraph Network (Balanced, Thematic)</option>
+                    <option value="page">Page Network (Broadest, High Serendipity)</option>
+                </select>
+            </div>
+            
+            <div class="form-group">
+                <label for="recommenderType" class="form-label">🧠 Recommendation Algorithm</label>
+                <select id="recommenderType" class="form-select">
+                    <option value="">Loading recommenders...</option>
+                </select>
+            </div>
+            
+            <!-- Guided Walk Inputs -->
+            <div id="guidedInputs" style="display: none;">
+                <div class="form-group">
+                    <label for="startEntity" class="form-label">🚀 Starting Location</label>
+                    <input type="text" id="startEntity" class="form-input" placeholder="e.g., Charminar" style="min-height: auto; height: 45px;"/>
+                </div>
+                <div class="form-group">
+                    <label for="endEntity" class="form-label">🎯 Destination</label>
+                    <input type="text" id="endEntity" class="form-input" placeholder="e.g., Hussain Sagar Lake" style="min-height: auto; height: 45px;"/>
+                </div>
+            </div>
+            
+            <!-- NEW: Walk Options (Sliders) -->
+            <div id="walkOptions" style="display: none; margin-top: 15px; padding: 15px; background: rgba(0,0,0,0.2); border-radius: 10px; border: 1px solid rgba(255,255,255,0.1);">
+                <div style="color: #4ECDC4; font-weight: bold; margin-bottom: 15px;">⚙️ Walk Settings</div>
+                
+                <div class="form-group" style="display: flex; align-items: center; gap: 15px;">
+                    <div style="flex: 1;">
+                        <label for="stepCount" class="form-label" style="font-size: 0.9em;">👣 Max Steps: <span id="stepValue" style="color: white; font-weight:bold;">10</span></label>
+                        <input type="range" id="stepCount" class="form-range" min="3" max="30" value="10" step="1" style="width: 100%;">
+                    </div>
+                </div>
+
+                <div id="randomnessInput" class="form-group" style="display: none;">
+                    <div style="flex: 1;">
+                        <label for="teleportProb" class="form-label" style="font-size: 0.9em;">🎲 Randomness (Detour Chance): <span id="probValue" style="color: white; font-weight:bold;">10%</span></label>
+                        <input type="range" id="teleportProb" class="form-range" min="0" max="1" value="0.1" step="0.05" style="width: 100%; accent-color: #FF00FF;">
+                        <style>#teleportProb::-webkit-slider-thumb { background: #FF00FF; } /* Chrome */
+                               #teleportProb::-moz-range-thumb { background: #FF00FF; } /* Firefox */
+                        </style>
+                        <small style="color: rgba(255,255,255,0.5); font-size: 0.8em;">Higher = More crazy jumps to unrelated places!</small>
+                    </div>
+                </div>
+            </div>
+            
+            <div id="recommenderInfo" class="recommender-info" style="display: none;"></div>
+            
+            <button id="getRecommendations" class="submit-btn" disabled>
+                ✨ Get Recommendations
+            </button>
+        </div>
+        
+        <div id="resultsSection" class="results-section">
+            <div class="results-title">🎯 Recommendations</div>
+            
+            <!-- Visualization container -->
+            <div id="vizContainer" style="display: none; margin-bottom: 30px;">
+                <div style="text-align: center; margin-bottom: 10px; color: #4ECDC4; font-size: 0.9em;">
+                    (Interactive Graph: Zoom, Pan, and Drag nodes!)
+                </div>
+                <iframe id="vizFrame" 
+                        style="width: 100%; height: 600px; border: 2px solid rgba(78, 205, 196, 0.3); border-radius: 15px; background: #1a1a1a;">
+                </iframe>
+            </div>
+
+            <!-- Text results container -->
+            <div id="resultsContent"></div>
+        </div>
+    </div>
+    
+    <!-- ... (Keep your Legend section) ... -->
+    <div class="legend-section">
+        <div class="legend-title">🎨 Node Categories</div>
+        <div class="legend-grid">
+            <div class="legend-item">
+                <div class="legend-dot" style="color: #FF6B6B;">●</div>
+                <strong>Food Items</strong><br>
+                <small>Biryani, Haleem, etc.</small>
+            </div>
+            <div class="legend-item">
+                <div class="legend-dot" style="color: #4ECDC4;">●</div>
+                <strong>Restaurants</strong><br>
+                <small>Paradise, Bawarchi, etc.</small>
+            </div>
+            <div class="legend-item">
+                <div class="legend-dot" style="color: #FFE66D;">●</div>
+                <strong>Monuments</strong><br>
+                <small>Charminar, Golconda, etc.</small>
+            </div>
+            <div class="legend-item">
+                <div class="legend-dot" style="color: #95E1D3;">●</div>
+                <strong>Tourist Places</strong><br>
+                <small>Hussain Sagar, etc.</small>
+            </div>
+        </div>
+        
+        <div style="background: rgba(0,0,0,0.3); padding: 20px; border-radius: 10px; margin-top: 20px;">
+            <strong style="font-size: 1.2em; color: #FFE66D;">💡 How to Use:</strong>
+            <ul style="margin-top: 10px; line-height: 2; padding-left: 20px;">
+                <li><strong>Zoom:</strong> Scroll wheel to zoom in/out</li>
+                <li><strong>Pan:</strong> Drag background to move around</li>
+                <li><strong>🌟 Click node:</strong> Highlights all connected nodes with colored borders!</li>
+                <li><strong>Double-click:</strong> Reset highlighting</li>
+                <li><strong>Drag node:</strong> Reposition nodes</li>
+                <li><strong>Hover:</strong> See node details</li>
+            </ul>
+        </div>
+    </div>
+    
+    <script>
+        let availableRecommenders = {};
+        
+        document.addEventListener('DOMContentLoaded', function() {
+            loadRecommenders();
+            setupEventListeners();
+        });
+        
+        function loadRecommenders() {
+            fetch('/api/recommenders')
+                .then(response => response.json())
+                .then(data => {
+                    availableRecommenders = data.recommenders;
+                    populateRecommenderDropdown();
+                })
+                .catch(error => {
+                    console.error('Error loading recommenders:', error);
+                    showError('Failed to load recommenders. Please refresh the page.');
+                });
+        }
+        
+        function populateRecommenderDropdown() {
+            const select = document.getElementById('recommenderType');
+            select.innerHTML = '<option value="">Choose a recommendation algorithm...</option>';
+            for (const [key, info] of Object.entries(availableRecommenders)) {
+                const option = document.createElement('option');
+                option.value = key;
+                option.textContent = info.name;
+                select.appendChild(option);
+            }
+            document.getElementById('getRecommendations').disabled = false;
+        }
+        
+        // --- UPDATED ---
+        function setupEventListeners() {
+            const textInput = document.getElementById('userText');
+            const selectInput = document.getElementById('recommenderType');
+            const submitBtn = document.getElementById('getRecommendations');
+            
+            // Sliders
+            const stepSlider = document.getElementById('stepCount');
+            const probSlider = document.getElementById('teleportProb');
+            
+            // Update slider text values on input
+            stepSlider.addEventListener('input', function() {
+                document.getElementById('stepValue').textContent = this.value;
+            });
+            probSlider.addEventListener('input', function() {
+                document.getElementById('probValue').textContent = Math.round(this.value * 100) + '%';
+            });
+            
+            // Show/hide controls when algorithm changes
+            selectInput.addEventListener('change', function() {
+                showRecommenderInfo(this.value);
+            });
+            
+            // Handle form submission
+            submitBtn.addEventListener('click', function() {
+                const text = textInput.value.trim();
+                const recommenderType = selectInput.value;
+                const startEntity = document.getElementById('startEntity').value.trim();
+                const endEntity = document.getElementById('endEntity').value.trim();
+                
+                // Get new values from sliders and network dropdown
+                const networkType = document.getElementById('networkType').value;
+                const maxSteps = stepSlider.value;
+                const teleportProb = probSlider.value;
+
+                if (!recommenderType) {
+                    showError('Please select a recommendation algorithm.');
+                    return;
+                }
+                
+                const isGuided = recommenderType.includes('guided');
+                if (isGuided && (!startEntity || !endEntity)) {
+                    showError('Please enter both locations for a guided walk.');
+                    return;
+                }
+                if (!isGuided && !text) {
+                    showError('Please enter some text to analyze.');
+                    return;
+                }
+
+                // Pass all new params
+                getRecommendations(text, recommenderType, startEntity, endEntity, networkType, maxSteps, teleportProb);
+            });
+        }
+        
+        // --- UPDATED ---
+        function showRecommenderInfo(recommenderType) {
+            const infoDiv = document.getElementById('recommenderInfo');
+            const guidedInputs = document.getElementById('guidedInputs');
+            const walkOptions = document.getElementById('walkOptions');
+            const randomnessInput = document.getElementById('randomnessInput');
+            const userTextLabel = document.querySelector('label[for="userText"]');
+            
+            if (!recommenderType) {
+                infoDiv.style.display = 'none';
+                guidedInputs.style.display = 'none';
+                walkOptions.style.display = 'none';
+                return;
+            }
+
+            // Logic variables
+            const algoName = recommenderType.toLowerCase();
+            const isGuided = algoName.includes('guided');
+            const isWalk = algoName.includes('walk');
+            const isExploratory = algoName.includes('exploratory');
+
+            // 1. Handle Guided Inputs (Start/End)
+            if (isGuided) {
+                guidedInputs.style.display = 'block';
+                userTextLabel.textContent = '💬 Context (Optional)';
+                document.getElementById('userText').placeholder = 'Optional: e.g., "I want a scenic route..."';
+            } else {
+                guidedInputs.style.display = 'none';
+                userTextLabel.textContent = '💬 Your Experience';
+                document.getElementById('userText').placeholder = 'e.g., "I visited Charminar..."';
+            }
+
+            // 2. Handle Walk Options (Steps & Randomness)
+            if (isWalk) {
+                walkOptions.style.display = 'block';
+                // Only show Randomness slider for Exploratory algos
+                randomnessInput.style.display = isExploratory ? 'block' : 'none';
+            } else {
+                walkOptions.style.display = 'none';
+            }
+            
+            // 3. Show Description
+            const info = availableRecommenders[recommenderType];
+            infoDiv.innerHTML = `<strong>${info.name}:</strong> ${info.description}`;
+            infoDiv.style.display = 'block';
+        }
+        
+        // --- UPDATED ---
+        function getRecommendations(text, recommenderType, startEntity, endEntity, networkType, maxSteps, teleportProb) {
+            const submitBtn = document.getElementById('getRecommendations');
+            const resultsSection = document.getElementById('resultsSection');
+            const resultsContent = document.getElementById('resultsContent');
+            
+            submitBtn.disabled = true;
+            submitBtn.textContent = '🔄 Processing...';
+            resultsContent.innerHTML = '<div class="loading">🧠 Analyzing your text and generating recommendations...</div>';
+            resultsSection.style.display = 'block';
+            
+            // Prepare request body with ALL data
+            const requestBody = {
+                text: text,
+                recommender: recommenderType,
+                start_entity: startEntity,
+                end_entity: endEntity,
+                network: networkType,
+                max_steps: maxSteps,
+                teleport_prob: teleportProb
+            };
+            
+            fetch('/api/recommend', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(requestBody)
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.error) {
+                    showError(data.error);
+                } else {
+                    displayResults(data);
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                showError('An error occurred. Please try again.');
+            })
+            .finally(() => {
+                submitBtn.disabled = false;
+                submitBtn.textContent = '✨ Get Recommendations';
+            });
+        }
+        
+        function showError(message) {
+            const resultsSection = document.getElementById('resultsSection');
+            const resultsContent = document.getElementById('resultsContent');
+            const vizContainer = document.getElementById('vizContainer');
+            
+            resultsContent.innerHTML = `<div class="error-message">❌ ${message}</div>`;
+            resultsSection.style.display = 'block';
+            vizContainer.style.display = 'none'; // Hide viz on error
+        }
+        
+        // --- UPDATED (Fixed comma logic) ---
+        function displayResults(data) {
+            const resultsContent = document.getElementById('resultsContent');
+            const vizContainer = document.getElementById('vizContainer');
+            const vizFrame = document.getElementById('vizFrame');
+            
+            // 1. Handle Visualization
+            if (data.visualization_html) {
+                vizFrame.srcdoc = data.visualization_html;
+                vizContainer.style.display = 'block';
+            } else {
+                vizContainer.style.display = 'none';
+            }
+
+            // 2. Handle Text Content
+            let html = '';
+            
+            if (data.natural_language) {
+                html += `
+                    <div style="background: linear-gradient(135deg, rgba(78, 205, 196, 0.2), rgba(69, 184, 176, 0.2)); 
+                                padding: 20px; border-radius: 15px; margin-bottom: 25px; 
+                                border-left: 4px solid #4ECDC4;">
+                        <div style="font-size: 1.3em; color: #4ECDC4; margin-bottom: 10px; font-weight: bold;">
+                            🤖 AI Recommendation
+                        </div>
+                        <div style="font-size: 1.1em; line-height: 1.6; color: white; font-style: italic;">
+                            "${data.natural_language}"
+                        </div>
+                    </div>
+                `;
+            }
+            
+            if (data.message) {
+                html += `<div class="success-message">${data.message}</div>`;
+            }
+            
+            if (data.entities && data.entities.length > 0) {
+                html += `
+                    <div class="entities-found">
+                        <strong>🏷️ Entities Found:</strong><br>
+                        ${data.entities.map(entity => `<span class="entity-tag">${entity}</span>`).join('')}
+                    </div>
+                `;
+            }
+            
+            if (data.recommendations && Object.keys(data.recommendations).length > 0) {
+                html += '<div style="margin-top: 20px;">';
+                
+                const algoName = data.recommender ? data.recommender.toLowerCase() : '';
+                const isWalkAlgo = algoName.includes('walk');
+                
+                for (const [entity, recs] of Object.entries(data.recommendations)) {
+                    let recListHtml = '';
+                    
+                    if (Array.isArray(recs)) {
+                        // Style 1: PATHS (Walks) -> Use arrows
+                        if (isWalkAlgo || entity.includes('→')) {
+                             recListHtml = recs.map((rec, index) => {
+                                if (rec.includes("Teleport") || rec.includes("Detour")) {
+                                    return `<span class="rec-tag" style="border-color: #FF00FF; color: #FF00FF;">⚡ ${rec}</span>`;
+                                }
+                                return `<span class="rec-tag">${rec}</span>` + 
+                                       (index < recs.length - 1 ? ' <span style="color: #4ECDC4; margin: 0 5px;">➝</span> ' : '');
+                            }).join('');
+                            
+                        // Style 2: LISTS (Simple, etc) -> Use commas
+                        } else {
+                            recListHtml = recs.map((rec, index) => {
+                                return `<span class="rec-tag">${rec}</span>` +
+                                          (index < recs.length - 1 ? '<span style="color: #ffffff; margin-right: 6px;">,</span>' : '');
+                            }).join('');
+                        }
+                    } else {
+                        recListHtml = `<span class="rec-tag">${recs}</span>`;
+                    }
+
+                    html += `
+                        <div class="recommendation-item">
+                            <div class="rec-entity">🎯 ${entity}</div>
+                            <div class="rec-list">
+                                ${recListHtml}
+                            </div>
+                        </div>
+                    `;
+                }
+                html += '</div>';
+            }
+            
+            // Show network used
+            if (data.recommender) {
+                const networkName = (data.network_used || 'sentence').charAt(0).toUpperCase() + (data.network_used || 'sentence').slice(1);
+                html += `<div style="text-align: center; margin-top: 15px; opacity: 0.8; font-size: 0.9em;">
+                    📊 Generated using: <strong>${data.recommender}</strong> on <strong>${networkName} Network</strong>
+                </div>`;
+            }
+            
+            resultsContent.innerHTML = html;
+        }
+    </script>
+</body>
+</html>
